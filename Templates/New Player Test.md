@@ -1,4 +1,5 @@
 ---
+banner: "![[candela_obscura.jpg]]"
 marksText1: Scar1
 marksText2: Scar2
 marksText3: Scar3
@@ -29,7 +30,6 @@ gearText6: Spec6
 illumText1: Illum 1
 illumText2: Illum 2
 illumText3: Illum 3
-banner: "![[candela_obscura.jpg]]"
 name: 
 pronouns: 
 circle: 
@@ -65,8 +65,6 @@ sldrMarkBleed: 0
 sldrMarkBrain: 0
 sldrMarkBody: 0
 ---
-
-
 
 
 
@@ -151,7 +149,7 @@ ____________________________________________________________________________
 :CoInstance: `INPUT[text:illumKey1]`  :CoInstance: `INPUT[text:allumKey2]`  :CoInstance: `INPUT[text:allumKey3]`  
 ____________________________________________________________________________
 ###### **NOTES:** 
-`INPUT[textArea:exampleProperty]`
+`INPUT[textArea:notes]`
 ____________________________________________________________________________
 
 
