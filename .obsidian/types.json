@@ -28,6 +28,13 @@
     "Move1": "checkbox",
     "Move2": "checkbox",
     "Move3": "checkbox",
-    "testToggle": "checkbox"
+    "testToggle": "checkbox",
+    "nerveMaxDrives": "number",
+    "nerveDrives": "number",
+    "sldrNerveMaxDrives": "number",
+    "sldrNerveDrives": "number",
+    "sldrSway": "number",
+    "sldrRead": "number",
+    "sldrHide": "number"
   }
 }

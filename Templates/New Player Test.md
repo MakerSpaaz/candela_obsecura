@@ -1,37 +1,25 @@
 ---
-moveToggle3: 
-moveToggle1: 
-moveToggle2: 
-strikeToggle3: 
-strikeToggle2: 
-strikeToggle1: 
-controlToggle3: 
-controlToggle2: 
-controlToggle1: 
-roleText1: 1
-roleText2: 2
-roleText3: 3
 marksText1: Scar1
 marksText2: Scar2
 marksText3: Scar3
-swayToggle3: 
-swayToggle2: 
-swayToggle1: 
-hideToggle3: 
-hideToggle2: 
-hideToggle1: 
-readToggle3: 
-readToggle2: 
-readToggle1: 
+sldrSway: 1
+sldrRead: 1
+sldrHide: 0
+sldrCunningMaxDrives: 8
+sldrCunningDrives: 5
+sldrResCunning: 3
 specText1: Spec1
 specText2: Spec2
 specText3: Spec3
 specText4: Spec4
 specText5: Spec5
 specText6: Spec6
-relshpText1: Relshp 1
-relshpText2: Relshp 2
-relshpText3: Relshp 3
+relship1: Relshp 1
+relship2: Relshp 2
+relship3: Relshp 3
+famRelship1: Relshp 1
+famRelship2: Relshp 2
+famRelship3: Relshp 3
 gearText1: Spec1
 gearText2: Spec2
 gearText3: Spec3
@@ -42,21 +30,43 @@ illumText1: Illum 1
 illumText2: Illum 2
 illumText3: Illum 3
 banner: "![[candela_obscura.jpg]]"
-Move1: 
-Move2: 
-Move3: 
 name: 
 pronouns: 
 circle: 
 style: 
 catalyst: 
 question: 
-slider1: 2
+slider1: 3
 prog1: 1
+sldrMove: 1
+sldrStrike: 0
+sldrControl: 1
+sldrResNerve: 3
+sldrNerveMaxDrives: 7
+sldrNerveDrives: 7
+sldrMaxDrives: 3
+sldrSurvey: 1
+sldrFocus: 0
+sldrSense: 2
+sldrResIntuition: 1
+sldrIntuitionMaxDrives: 9
+sldrIntuitionDrives: 2
+role1: 
+role2: 
+role3: 
+scar1: 
+scar2: 
+scar3: 
+speciality1: 
+speciality2: 
+speciality3: 
+speciality4: 
+sldrMarkBleed: 0
+sldrMarkBrain: 0
+sldrMarkBody: 0
 ---
 
 
-![[candela_obscura_logo_stacked_gold-3688415009.png]]
 
 
 
@@ -66,7 +76,7 @@ Number of Columns: 3
 Largest Column: standard
 ```
 
-![[candela_obscura_logo_stacked_gold-3688415009.png]]
+![[candela_logo.png|250]]
 
 --- column-break ---
 
@@ -83,163 +93,66 @@ Question: `INPUT[text(showcase):question]`
 
 
 --- end-multi-column
-
-
---- start-multi-column: ID_zvro
-```column-settings
-Number of Columns: 3
-Largest Column: standard
-```
-
-NERVE
-Move     *run, dodge, navigate*
-`INPUT[toggle(showcase):moveToggle1]`  `INPUT[toggle(showcase):moveToggle2]`  `INPUT[toggle(showcase):moveToggle3]`
-
-Strike     *punch, break, knock down*
-`INPUT[toggle(showcase):strikeToggle1]`  `INPUT[toggle(showcase):strikeToggle2]`  `INPUT[toggle(showcase):strikeToggle3]`
-
-Control     *drive, shoot, finesse*
-`INPUT[toggle(showcase):controlToggle1]`  `INPUT[toggle(showcase):controlToggle2]`  `INPUT[toggle(showcase):controlToggle3]`
-
-
---- column-break ---
-
-ROLE:
-
-`INPUT[text(showcase):roleText1]`
-
-`INPUT[text(showcase):roleText2]`
-
- `INPUT[text(showcase):roleText3]`
-
-
---- column-break ---
-
-MARKS:
-
-`INPUT[text(showcase):marksText1]`
-
-`INPUT[text(showcase):marksText2]`
-
-`INPUT[text(showcase):marksText3]`
-
-
---- end-multi-column
-
-
---- start-multi-column: ID_3htw
-```column-settings
-Number of Columns: 3
-Largest Column: standard
-```
-
-CUNNING
-Sway     *convince, command, consort*
-`INPUT[toggle(showcase):swayToggle1]`  `INPUT[toggle(showcase):swayToggle2]`  `INPUT[toggle(showcase):swayToggle3]`
-
-Read     *interpret body language, spot lies, gather motives*
-`INPUT[toggle(showcase):readToggle1]`  `INPUT[toggle(showcase):readToggle2]`  `INPUT[toggle(showcase):readToggle3]`
-
-Hide     *sneak, distract, sleight of hand*
-`INPUT[toggle(showcase):hideToggle1]`  `INPUT[toggle(showcase):hideToggle2]`  `INPUT[toggle(showcase):hideToggle3]`
-
-
---- column-break ---
-
-SPECIALITY
-
-`INPUT[text(showcase):specText1]`
-
-`INPUT[text(showcase):specText2]`
-
-`INPUT[text(showcase):specText3]`
-
-
---- column-break ---
-
-RELATIONSHIPS
-
-`INPUT[text(showcase):relshpText1]`
-
-`INPUT[text(showcase):relshpText2]`
-
-`INPUT[text(showcase):relshpText3]`
-
-
---- end-multi-column
-
-
---- start-multi-column: ID_r5sz
-```column-settings
-Number of Columns: 3
-Largest Column: standard
-```
-
-INTITUITION
-Survey     *search, track, spot*
-`INPUT[toggle(showcase):surveyToggle1]`  `INPUT[toggle(showcase):surveyToggle2]`  `INPUT[toggle(showcase):surveyToggle3]`
-
-Focus     *inspect ,analyze, remember*
-`INPUT[toggle(showcase):focusToggle1]`  `INPUT[toggle(showcase):focusToggle2]`  `INPUT[toggle(showcase):focusToggle3]`
-
-Sense     *attune, channel, reveal*
-`INPUT[toggle(showcase):senseToggle1]`  `INPUT[toggle(showcase):senseToggle2]`  `INPUT[toggle(showcase):senseToggle3]`
-
-*Burn a resistance to reroll a number of dice equal to your action rating.*
-
-
---- column-break ---
-
-`INPUT[text(showcase):specText4]`
-
-`INPUT[text(showcase):specText5]`
-
-`INPUT[text(showcase):specText6]`
-
-Illumiination Keys
- `INPUT[text(showcase):illumText1]` `INPUT[text(showcase):illumText2]` `INPUT[text(showcase):illumText3]`
-
---- column-break ---
-
-GEAR     *During each assignment choose up to 3*
-
-`INPUT[text(showcase):gearText1]`
-
-`INPUT[text(showcase):gearText2]`
-
-`INPUT[text(showcase):gearText3]`
-
-`INPUT[text(showcase):gearText4]`
-
-`INPUT[text(showcase):gearText5]`
-
-
---- end-multi-column
-
-Test Display number here : `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3)):slider1]` 
-`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3)):slider1]` 
-
-
-> [!NOTE] Cunning `VIEW[{slider1}][text]`
-> `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3)):slider1]` 
-
-
-
---- start-multi-column: ID_y2ny
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
-> [!NOTE] Cunning `VIEW[{slider1}][text]`
-> `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3)):slider1]` 
-
-
---- column-break ---
-
-
-
---- end-multi-column
+____________________________________________________________________________
+
+###### **NERVE:** 
+*Max Drives:*      `VIEW[{sldrNerveMaxDrives}][text]`
+*Drives:*      `VIEW[{sldrNerveDrives}][text]`
+> [!info] NERVE  
+> | MOVE    `VIEW[{sldrMove}][text]`  | STRIKE    `VIEW[{sldrStrike}][text]`    | CONTROL    `VIEW[{sldrControl}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | Max Drives `VIEW[{sldrNerveMaxDrives}][text]` | Drives `VIEW[{sldrNerveDrives}][text]`  |
+> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMove]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrStrike]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrControl]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResNerve]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrNerveMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrNerveDrives]` |
+ 
+###### **CUNNING:** 
+*Max Drives:*      `VIEW[{sldrCunningMaxDrives}][text]`
+*Drives:*      `VIEW[{sldrCunningDrives}][text]`
+> [!info] CUNNING    Max Drives: `VIEW[{sldrNerveMaxDrives}][text]` Drives: `VIEW[{sldrNerveDrives}][text]`
+> | Sway    `VIEW[{sldrSway}][text]`  | Read    `VIEW[{sldrRead}][text]`    | Hide    `VIEW[{sldrHide}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | Max Drives `VIEW[{sldrCunningMaxDrives}][text]` | Drives `VIEW[{sldrCunningDrives}][text]`  |
+> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSway]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrRead]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrHide]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResCunning]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrCunningMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrCunningDrives]` |
+
+###### **INTUITION:** 
+*Max Drives:*      `VIEW[{sldrIntuitionMaxDrives}][text]`
+*Drives:*      `VIEW[{sldrIntuitionDrives}][text]`
+
+> [!info] INTUITION    Max Drives: `VIEW[{sldrIntuitionMaxDrives}][text]` Drives: `VIEW[{sldrIntuitionDrives}][text]`
+> | Survey    `VIEW[{sldrSurvey}][text]`  | Focus    `VIEW[{sldrFocus}][text]`    | Sense    `VIEW[{sldrSense}][text]`      | RESISTANCE `VIEW[{sldrResIntuition}][text]` | Max Drives `VIEW[{sldrIntuitionMaxDrives}][text]` | Drives `VIEW[{sldrIntuitionDrives}][text]`  |
+> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSurvey]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrFocus]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSense]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResIntuition]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrIntuitionMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrIntuitionDrives]` |
+
+____________________________________________________________________________
+
+###### **ROLE:** 
+:CoInstance: `INPUT[textArea:role1]`  :CoInstance: `INPUT[textArea:role2]`  :CoInstance: `INPUT[textArea:role3]`  
+____________________________________________________________________________
+
+###### **SPECIALITY:** 
+:CoInstance: `INPUT[text:speciality1]`  :CoInstance: `INPUT[text:speciality2]`  :CoInstance: `INPUT[text:speciality3]`  :CoInstance: `INPUT[text:speciality4]` 
+____________________________________________________________________________
+###### **MARKS:**
+| BODY    `VIEW[{sldrMarkBody}][text]`  | BRAIN    `VIEW[{sldrMarkBrain}][text]`    | BLEED    `VIEW[{sldrMarkBleed}][text]`      | 
+| -------------------------- | -------------------------- | -------------------------- | 
+| `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMarkBody]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMarkBrain]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMarkBleed]`   |
+____________________________________________________________________________
+
+###### **SCARS:** 
+:CoInstance: `INPUT[text:scar1]`  :CoInstance: `INPUT[text:scar2]`  :CoInstance: `INPUT[text:scar3]`  
+____________________________________________________________________________
+
+###### **GEAR:** *During each assignment, choose up to three*
+:CoInstance: `INPUT[text:gear1]`  :CoInstance: `INPUT[text:gear2]`  :CoInstance: `INPUT[text:gear3]`  :CoInstance: `INPUT[text:gear4]`  :CoInstance: `INPUT[text:gear5]`  
+____________________________________________________________________________
+###### **RELATIONSHIPS:** 
+:CoInstance: `INPUT[text:relship1]`  :CoInstance: `INPUT[text:famRelship1]`
+:CoInstance: `INPUT[text:relship2]`  :CoInstance: `INPUT[text:famRelship2]` 
+:CoInstance: `INPUT[text:relship3]`  :CoInstance: `INPUT[text:famRelship3]`
+____________________________________________________________________________
+###### **ILLUMINATION KEYS:** 
+:CoInstance: `INPUT[text:illumKey1]`  :CoInstance: `INPUT[text:allumKey2]`  :CoInstance: `INPUT[text:allumKey3]`  
+____________________________________________________________________________
+###### **NOTES:** 
+`INPUT[textArea:exampleProperty]`
+____________________________________________________________________________
 
 
 

@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/New Player Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Player Test.md",
+                "file": "Templates/New Player Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Player Test.md",
+                "file": "Templates/New Player Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Player Test.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Player Test.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           }
@@ -191,11 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c8bb5a3af92e460",
+  "active": "c08c017ab3b16d23",
   "lastOpenFiles": [
+    "Templates/Player Test.md",
     "z_images/candela_logo.png",
     "Templates/New Player Test.md",
-    "Templates/Player Test.md",
     "Templates/Templates.md",
     "Templates/Test.md",
     "Templates/New Player.md",
@@ -218,7 +219,6 @@
     "abstract-046.svg",
     "abstract-045.svg",
     "abstract-044.svg",
-    "abstract-043.svg",
     "3. World/Government/Primacy.md",
     "Templates/Weird Occultist.md",
     "Templates/CS.md",
