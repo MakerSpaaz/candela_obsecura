@@ -1,0 +1,2 @@
+The central hub for travelers and commuters. The interior ceiling of the station is painted with a map of the stars, but the discerning traveler will notice extra constellations that seem to form alchemical symbols.
+![[newfaire railway.jpg]]

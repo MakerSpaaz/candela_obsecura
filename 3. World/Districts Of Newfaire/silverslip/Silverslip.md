@@ -1,0 +1,4 @@
+An opulent district that serves as the seat of the Primacy in the city. Those who visit Silverslip will find courthouses, law offices, and some of the most prestigious businesses in the region. It’s not uncommon to see wealthy individuals walking around this district in formal attire, while shoeshiners offer their services, and young paperboys shout out the latest news on street corners for tips.
+
+Silverslip maintains a veneer of order and control, but just under the surface is a corrupt morass of politicians, judges, lobbyists, and corporate executives serving their own agendas. Beneath this district is a network of modern, underground tunnels, many of which pass through portions of Oldfaire. They provide a secret way for government officials to move
+between buildings during emergencies or political protests.

@@ -1,0 +1,3 @@
+The Depot is Newfaire’s southernmost stop on the Stentorian River, and is used to ferry goods and supplies into and out of the Steel. It is a labyrinth, with boxes and barrels of all kinds that form walls many stories high. The yard provides a privacy that would normally lend itself to all manner of criminal ventures—but it’s locked up tight under the watchful eye of the Foreman (they/them) and their private patrols.
+
+![[the depot.jpg]]

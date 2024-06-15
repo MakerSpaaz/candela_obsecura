@@ -1,0 +1,2 @@
+Ground breaking took place almost immediately after the formal announcement of the end of the Last Great War. Though it currently only has lines to Silverslip and the Varnish, they’re establishing a commuter train that runs to the Sidle. Construction workers tell stories of discovering tunnels that were not dug by the crew.
+![[subway station.jpg]]

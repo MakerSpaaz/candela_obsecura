@@ -1,0 +1,2 @@
+Famous across all of Hale, this spa tends to only the wealthiest of clientele. Since the Last Great War, they have offered a “regenerative treatment” that actually seems to make people younger, though the mechanism of this transformation is a secret.
+![[Designer(4).jpeg|400]]

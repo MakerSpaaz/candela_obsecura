@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "5d165814e2d9bd7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c179f8bab444278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8bb5a3af92e460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Player Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c08c017ab3b16d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/New Player Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84424707ed04e043",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8411c462c5eff05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7cc5ae448889260",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcbee6423a7f7ee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file::\"User Docs/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46a61b189853079c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "646e092613f48697",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.50000381469727
+  },
+  "right": {
+    "id": "215e731ac085fbc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb98cbe0334c056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b02787d6fc269a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Player Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "db810a0e0bcf3bea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Player Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96a1c173edfb7ae0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0e1849dfd7fdd36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Player Test.md"
+              }
+            }
+          },
+          {
+            "id": "b7ae08e5e7c60e4d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b0fc973c0285b300",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/Player Test.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4c8bb5a3af92e460",
+  "lastOpenFiles": [
+    "z_images/candela_logo.png",
+    "Templates/New Player Test.md",
+    "Templates/Player Test.md",
+    "Templates/Templates.md",
+    "Templates/Test.md",
+    "Templates/New Player.md",
+    "Templates/New Player 1.file/New Player 1.file.md",
+    "Templates/New Player 1.file",
+    "Templates/Blank Player Sheet.md",
+    "Templates/New Player Sheet.md",
+    "Vault.md",
+    "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
+    "icons/3d-glasses.svg",
+    "icons/3d-stairs.svg",
+    "icons/3d-meeple.svg",
+    "icons/3d-hammer.svg",
+    "icons",
+    "New folder",
+    "7. Players/7. Players.md",
+    "7. Players",
+    "Untitled.md",
+    "abstract-047.svg",
+    "abstract-046.svg",
+    "abstract-045.svg",
+    "abstract-044.svg",
+    "abstract-043.svg",
+    "3. World/Government/Primacy.md",
+    "Templates/Weird Occultist.md",
+    "Templates/CS.md",
+    "Templates/hello world.md",
+    "Templates/Blank Player.md",
+    "Tags",
+    "3. World/Districts Of Newfaire/The Shriveline/Notable Figure/Empress Iomene.md",
+    "0. Story/7. Escalation 1.md",
+    "3. World/Supernatural World/Magick.md",
+    "3. World/Supernatural World/Bleed.md",
+    "Templates/Notable Figure.md",
+    "0. Story/0.0 Preamble.md",
+    "0. Story/11. Epilogue.md",
+    "0. Story/10. Climax The Escape.md",
+    "0. Story/8. Escalation 2.md",
+    "z_images/~unes2.tmp",
+    "z_images/~unes.tmp",
+    "z_images/frame.png.crdownload",
+    "z_images/seahorse.png.crdownload",
+    "z_images/~ary shelly.tmp"
+  ]
+}

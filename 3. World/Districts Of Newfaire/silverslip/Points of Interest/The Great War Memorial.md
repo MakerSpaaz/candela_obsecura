@@ -1,0 +1,2 @@
+The triangular walls of this memorial are constructed from salvaged Oldfairen stone, “in celebration of our rich history and strong foundation.” The golden sculpture at the center features a bolt of shimmering lightning, transformed into a sylph to symbolize electricity propelling the country to victory.
+![[great war memorial.jpg]]

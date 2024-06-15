@@ -1,0 +1,5 @@
+In Groundswell, the coastal wetlands frequently reveal previously buried portions of Oldfaire. Because of this, numerous zones are off-limits to the public for preservation purposes. It is also home to a nationally renowned outdoor marketplace that hosts goods from around the world. The presence of historical landmarks, such as a still functional Oldfairen well, makes this district a popular tourist destination. 
+
+Within Groundswell, there is an ever-present battle for control of the district. There are those who believe the entire area should be closed down and cleared out for archeological assessment, with no regard for the people who reside there. Locals point out that the market is in the same square where Oldfaire had its own, and believe that it is the birthright of modern Fairens to maintain the tradition uninterrupted.
+
+![[background8 1.jpg|400]]

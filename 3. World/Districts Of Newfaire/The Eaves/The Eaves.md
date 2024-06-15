@@ -1,0 +1,5 @@
+A highly manicured neighborhood perched on the top of a massive Oldfairen archway and the nearby Oldfairen rooftops that surround it. Surrounded by spectacular views on all sides, this incredibly exclusive district hosts the mansions and follies of the elite. For those old money families that live upon the Eaves, the rules of common society rarely apply. The presence of the Periphery is to “keep out the riff-raff” rather than to police the citizens that live above them. 
+
+Throughout the years, the Eaves have expanded to include not only homes, but luxury shops, restaurants, theaters, cinemas, and all manner of entertainment available exclusively to those with identification proving they officially reside in the district. All outside carriages and motor vehicles must be registered with the district Periphery in order to travel on its streets.
+
+![[the eaves.png]]

@@ -1,0 +1,2 @@
+The foremost private college in Hale. Briarbank receives an exorbitant amount of money from the parents of the wealthy students who attend, making its archeology and physics departments the most well funded and well known in the north. Students of Briarbank have the opportunity to incorporate actual archeological digs of Oldfaire into their education—a thrilling, though dangerous, way to gain firsthand experience.
+![[background2.jpg]]

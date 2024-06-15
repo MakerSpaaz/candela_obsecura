@@ -1,0 +1,5 @@
+The harbor of Newfaire is a keystone of trade and commerce for the entire country of Hale, and accounts for a major portion of the valley’s incoming wealth. This district boasts a combination of luxury tourism, with Halen citizens taking exorbitant cruises, as well as more traditional mercantile and holding corporations that ferry goods throughout the region. 
+
+During the Last Great War, Hallowharbor was well protected by the formidable geographic shield of the Vastchasm. While the narrow pass between the continent and the falls was under blockade by Otherwhere, the citizens of Newfaire found a rich food source, fishing in the once-crowded commercial port. Post-war, enjoying seafood has become a unique symbol of regional pride, a concept embraced by many of the high-end dining establishments across the valley.
+
+![[Designer(28) 1.jpeg|400]]

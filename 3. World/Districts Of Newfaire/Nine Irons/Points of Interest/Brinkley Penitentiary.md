@@ -1,0 +1,3 @@
+Known colloquially as “the Brink,” this terrifying prison is famous for its mistreatment of prisoners. The corruption of the Periphery is on full display within the panopticon of the Brink. Prisoners—many of whom were wrongly convicted—are deprived of food, sleep, and human interaction, while living under the threat of constant violence. There have only been two known escapes from this facility.
+
+![[Brinkley Penitenttiary.jpg]]

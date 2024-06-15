@@ -1,0 +1,5 @@
+Newfaire is known far and wide for its legalization of sex work, and sex workers are afforded numerous rights and protections under the law. The majority of these establishments are found in Red Lamp, drawing people of all genders and sexualities as both patrons and employees. Along with their legal business, the majority of theaters, brothels, and gambling houses serve scarlet—the illegal hallucinogenic substance that gives the district its name. Periphery officers that patrol these streets have close relationships with purveyors of vice, and accept bribes to look the other way. 
+
+This area is also known as the arts district within the city. Red Lamp is home to small performance theaters, towering murals, and all-night coffee bars. It’s not uncommon for scientific and artistic innovators to come together over a bottle of scarlet or host a friendly debate over a recent publication in the Halen Star.
+
+![[redlamp 1.jpg]]

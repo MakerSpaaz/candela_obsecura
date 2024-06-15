@@ -1,0 +1,7 @@
+Beneath the city of Newfaire lies the mysterious ruins of Oldfaire—a place that was once a thriving civilization, but suffered a catastrophic collapse about 2,000 years ago. Perfectly positioned within the safety of Hallowharbor and protected by the treacherous Bridleborne Mountains, Oldfaire operated with relative impunity in the ancient world. Led by an individual empress or emperor, as well as a council of powerful alchemists, the entire city attempted to harness magick in the way Newfaire now uses electricity.
+
+At the center of the ancient city stands a central tower-vault, the Ziggurat, where the government of Oldfaire attempted to house and utilize magickal phenomena. But the alchemists were ill-equipped to manage bleed, and the citizens were affected by the horrors that come from prolonged exposure to the corruptive energy.
+
+Halen lore suggests that human minds and bodies mutated and society collapsed. The once powerful city of stone fell when a local thinning was torn asunder. This cataclysmic event cleaved a rift into the sea, and from this seismic shift, a wall of water swept forth and first drowned, then buried Oldfaire, wiping its technology from the face of the world.
+
+Today, beneath the modern metropolis of Newfaire, within the tombs of its predecessor, magickal monsters, alchemical discoveries, and bleed-corrupted Oldfairen citizens still lurk.

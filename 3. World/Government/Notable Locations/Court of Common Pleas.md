@@ -1,0 +1,1 @@
+Known for a lack of leniency, this court hears both civil and criminal cases.

@@ -1,0 +1,2 @@
+A movie theater that shows only the latest silent pictures. Moving picture stars from across Hale come to Newfaire to make opening night appearances at the Meridian, offering the Halen Star and Civil Tribune opportunities to capture exclusive interviews.
+![[meridian theatre.jpg]]

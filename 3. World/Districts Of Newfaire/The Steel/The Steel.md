@@ -1,0 +1,4 @@
+As Newfaire grapples with the new century of technological advancement, the city’s borders have expanded with the addition of towering industrial buildings. Here, the greatest minds and strongest laborers are hard at work modernizing Newfaire. Stretching between the Stentorian River and the Steam, this massive district was especially vital during the war effort. Ever since the innovation of electricity, an incredible amount of wealth has been invested in the many factories that dominate the district.
+
+During the day, the space is heavily populated with blue-collar workers. At night, the streets that twist around the factories are deserted by both citizens and Periphery officers, making it the perfect place for nefarious activity.
+![[the steel.jpg]]

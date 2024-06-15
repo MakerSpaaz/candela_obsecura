@@ -1,0 +1,2 @@
+In 1872, amateur archeologist Henry Fleishman (he/him) privately funded an expedition to Oldfaire to excavate an area that has yet to be fully cataloged. This operation included over 50 scientists, historians, and laborers who either died or vanished at the site. To this day, the site remains largely undisturbed, with both equipment and bodies left behind. The dig site is denoted by signs and roped-off areas from the original team’s excavations.
+![[dig site 347.jpg]]

@@ -1,0 +1,1 @@
+The Flare is the barrier between worlds, preventing the flow of magick into our realm from the terrifying beyond. Though it typically burns away anything that passes through it, there are spots referred to as thinnings where this veil has become permeable—and all manner of phenomena can slip into our reality. These rifts are a central focus of Candela Obscura.

@@ -1,0 +1,2 @@
+The primary cable car stop for downtown Newfaire. First opened in 1888, the city’s trolley system is coming up on its twentieth anniversary. The Seren Street Station is one of the three major hubs of the railway, and is opulently decorated—both to attract tourists and glorify Newfaire’s wealth.
+![[seren street station.jpg]]

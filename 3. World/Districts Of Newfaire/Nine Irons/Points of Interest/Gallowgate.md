@@ -1,0 +1,3 @@
+Down a lonely road to the northeast of Brinkley Penitentiary lies the gallows. Those who are sentenced to death in Newfaire have two choices: execution by firing squad or hanging by the neck until dead. The gallows are generally considered the more favorable option, if only to offer the incarcerated one last opportunity to plead their innocence in front of the crowds that gather for hangings.
+
+![[gallows2.jpg]]

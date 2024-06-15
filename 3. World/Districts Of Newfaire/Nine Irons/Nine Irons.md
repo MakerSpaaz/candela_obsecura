@@ -1,0 +1,5 @@
+The home base of the Periphery within Newfaire, Nine Irons includes relatively few buildings: the Periphery headquarters, prison, gallows, city landfill, and a police bar known as the Layabout. Perhaps the most ominous feature in all of Newfaire, the Brinkley penitentiary sits high on a manufactured plateau. Sheer cliffs create a nigh-impenetrable fortress and a terrifying fall for anyone hoping to get into and out of the penitentiary undetected. 
+
+The long road between the prison and the gallows is known as the Silent Mile. While crowds will gather to witness hangings, particularly those that are considered to be unjust, the stretch of land between incarceration and the crowd is filled with a reverent quiet. Guardians from the Ascendancy will frequently join prisoners in the cart ride to the gallows, both to offer comfort and silence the jeering guards accompanying them.
+
+![[Designer(36).jpeg]]

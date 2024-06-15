@@ -1,0 +1,2 @@
+The award-winning restaurant founded by Rasa Petrova (she/her). During the height of the war, it closed down due to a lack of available imports. Since its grand reopening, the place is always filled with excellent food and laughter.
+![[reviosionary.jpg]]

@@ -1,0 +1,1 @@
+Boxes of ancient tablets were uncovered during the initial dig, which depict grotesque creatures in vivid detail. The boxes also contain notes written in Ancient Fairen. No explorer has succeeded in recovering these archeological finds from Oldfaire, and there are numerous human remains nearby.
