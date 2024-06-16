@@ -51,12 +51,14 @@ sldrSense: 2
 sldrResIntuition: 1
 sldrIntuitionMaxDrives: 9
 sldrIntuitionDrives: 2
+role0:
 role1: 
 role2: 
 role3: 
 scar1: 
 scar2: 
 scar3: 
+speciality0:
 speciality1: 
 speciality2: 
 speciality3: 
@@ -120,11 +122,13 @@ ____________________________________________________________________________
 
 ____________________________________________________________________________
 
-###### **ROLE:** 
-:CoInstance: `INPUT[textArea:role1]`  :CoInstance: `INPUT[textArea:role2]`  :CoInstance: `INPUT[textArea:role3]`  
+###### **ROLE:**   
+:CoInstance:`INPUT[text:role0]`
+:CoInstance: `INPUT[text:role1]`  :CoInstance: `INPUT[text:role2]`  :CoInstance: `INPUT[text:role3]`  
 ____________________________________________________________________________
 
 ###### **SPECIALITY:** 
+:CoInstance:`INPUT[text:speciality0]`
 :CoInstance: `INPUT[text:speciality1]`  :CoInstance: `INPUT[text:speciality2]`  :CoInstance: `INPUT[text:speciality3]`  :CoInstance: `INPUT[text:speciality4]` 
 ____________________________________________________________________________
 ###### **MARKS:**

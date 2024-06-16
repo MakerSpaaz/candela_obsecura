@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0c179f8bab444278",
+        "id": "ceab08ea9528fde7",
         "type": "tabs",
         "children": [
           {
-            "id": "c08c017ab3b16d23",
+            "id": "9d875dc7bbc1ffa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/New Player Test.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bc3c78efa176f1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Circle Sheet.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Circle Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Circle Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Circle Sheet.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Circle Sheet.md"
               }
             }
           }
@@ -179,20 +192,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c08c017ab3b16d23",
+  "active": "bc3c78efa176f1a6",
   "lastOpenFiles": [
-    "Templates/Player Test.md",
     "Templates/New Player Test.md",
-    "Templates/Test.md",
-    "Templates/New Player.md",
-    "Templates/Blank Player Sheet.md",
-    "Templates/Weird Occultist.md",
-    "z_images/candela_logo.png",
+    "Templates/Circle Sheet.md",
     "Templates/Templates.md",
+    "4. Mechanics/Gear.md",
+    "4. Mechanics/Rules.md",
+    "4. Mechanics/Special Abilities.md",
+    "4. Mechanics/Drives.md",
+    "4. Mechanics/Roles.md",
+    "4. Mechanics/Drives and Actions.md",
+    "4. Mechanics/Marks and Scars.md",
+    "4. Mechanics/Resistance.md",
+    "4. Mechanics/Making An Action Roll.md",
+    "4. Mechanics/Consequences.md",
+    "callouts/call outs.md",
+    "6. Phenomenon/The Radiance.md",
+    "6. Phenomenon/Sklireel.md",
+    "6. Phenomenon/Sylphs Fire.md",
+    "Other/Example Notes/Example Note with Callouts.md",
+    "Other/Example Notes",
+    "Other",
+    "2. Players/weird_Occultist.md",
+    "Templates/New Player Test 1.file/New Player Test 1.file.md",
+    "Templates/New Player Test 1.file",
+    "Templates/Test.md",
+    "Templates/Weird Occultist.md",
+    "Templates/New Player.md",
+    "Templates/Player Test.md",
+    "Templates/Blank Player Sheet.md",
+    "z_images/candela_logo.png",
     "Templates/New Player 1.file/New Player 1.file.md",
     "Templates/New Player 1.file",
-    "Templates/New Player Sheet.md",
-    "Vault.md",
     "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
     "icons/3d-glasses.svg",
     "icons/3d-stairs.svg",
@@ -200,31 +232,13 @@
     "icons/3d-hammer.svg",
     "icons",
     "New folder",
-    "7. Players/7. Players.md",
     "7. Players",
-    "Untitled.md",
     "abstract-047.svg",
     "abstract-046.svg",
     "abstract-045.svg",
     "abstract-044.svg",
-    "3. World/Government/Primacy.md",
-    "Templates/CS.md",
-    "Templates/hello world.md",
-    "Templates/Blank Player.md",
     "Tags",
-    "3. World/Districts Of Newfaire/The Shriveline/Notable Figure/Empress Iomene.md",
-    "0. Story/7. Escalation 1.md",
-    "3. World/Supernatural World/Magick.md",
-    "3. World/Supernatural World/Bleed.md",
-    "Templates/Notable Figure.md",
-    "0. Story/0.0 Preamble.md",
-    "0. Story/11. Epilogue.md",
-    "0. Story/10. Climax The Escape.md",
-    "0. Story/8. Escalation 2.md",
     "z_images/~unes2.tmp",
-    "z_images/~unes.tmp",
-    "z_images/frame.png.crdownload",
-    "z_images/seahorse.png.crdownload",
-    "z_images/~ary shelly.tmp"
+    "z_images/~unes.tmp"
   ]
 }

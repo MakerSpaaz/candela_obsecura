@@ -41,9 +41,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//3. World",
     "//Templates",
-    "//Templates/Templates/New Player 1.file"
+    "//Templates/Templates/New Player 1.file",
+    "//Templates/Templates/New Player Test 1.file",
+    "//2. Players",
+    "//6. Phenomenon",
+    "//User Docs",
+    "//callouts"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
