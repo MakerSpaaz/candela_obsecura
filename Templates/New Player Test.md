@@ -3,12 +3,12 @@ banner: "![[candela_obscura.jpg]]"
 marksText1: Scar1
 marksText2: Scar2
 marksText3: Scar3
-sldrSway: 1
-sldrRead: 1
+sldrSway: 0
+sldrRead: 0
 sldrHide: 0
-sldrCunningMaxDrives: 8
-sldrCunningDrives: 5
-sldrResCunning: 3
+sldrCunningMaxDrives: 0
+sldrCunningDrives: 0
+sldrResCunning: 0
 specText1: Spec1
 specText2: Spec2
 specText3: Spec3
@@ -38,27 +38,27 @@ catalyst:
 question: 
 slider1: 3
 prog1: 1
-sldrMove: 1
+sldrMove: 0
 sldrStrike: 0
-sldrControl: 1
-sldrResNerve: 3
-sldrNerveMaxDrives: 7
-sldrNerveDrives: 7
+sldrControl: 0
+sldrResNerve: 0
+sldrNerveMaxDrives: 0
+sldrNerveDrives: 0
 sldrMaxDrives: 3
-sldrSurvey: 1
+sldrSurvey: 0
 sldrFocus: 0
-sldrSense: 2
-sldrResIntuition: 1
-sldrIntuitionMaxDrives: 9
-sldrIntuitionDrives: 2
-role0:
+sldrSense: 0
+sldrResIntuition: 0
+sldrIntuitionMaxDrives: 0
+sldrIntuitionDrives: 0
+role0: 
 role1: 
 role2: 
 role3: 
 scar1: 
 scar2: 
 scar3: 
-speciality0:
+speciality0: 
 speciality1: 
 speciality2: 
 speciality3: 
@@ -72,7 +72,7 @@ sldrMarkBody: 0
 
 --- start-multi-column: ID_4xdz
 ```column-settings
-Number of Columns: 3
+Number of Columns: 4
 Largest Column: standard
 ```
 
@@ -90,6 +90,10 @@ Circle: `INPUT[text(showcase):circle]`
 Style: `INPUT[text(showcase):style]`
 Catalyst: `INPUT[text(showcase):catalyst]`
 Question: `INPUT[text(showcase):question]`
+
+--- column-break ---
+
+![[Designer(6).jpeg|250]]
 
 
 --- end-multi-column
