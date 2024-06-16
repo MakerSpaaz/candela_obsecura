@@ -35,6 +35,7 @@
     "sldrNerveDrives": "number",
     "sldrSway": "number",
     "sldrRead": "number",
-    "sldrHide": "number"
+    "sldrHide": "number",
+    "progress3": "number"
   }
 }

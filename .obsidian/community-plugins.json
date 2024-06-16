@@ -11,5 +11,6 @@
   "make-md",
   "dataview",
   "metadata-menu",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "text-progress-bar"
 ]
