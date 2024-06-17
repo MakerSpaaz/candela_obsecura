@@ -130,3 +130,23 @@ INPUT[slider(nonExistantArgument)]
 ```
 
 `INPUT[inlineSelect(option(a), option(b), option(c)]`
+
+
+> [!even-columns]
+>
+> > [!abstract] About
+> >
+> > - Type: #book/nonfiction
+> > - [Author:: [[Cal Newport]]]
+> > - [pages:: 305]
+> > - [ddc:: 650.1]
+> > - [Year published:: [[2012]]]
+>
+> > [!bookinfo] Reading
+> >
+> > - [status:: read]
+> > - [rating:: 4.75]
+> > - [added:: 2022-10-29]
+> > - [started:: 2022-10-29]
+> > - [read:: 2022-10-29]
+

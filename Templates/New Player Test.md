@@ -15,12 +15,14 @@ specText3: Spec3
 specText4: Spec4
 specText5: Spec5
 specText6: Spec6
-relship1: Relshp 1
-relship2: Relshp 2
-relship3: Relshp 3
-famRelship1: Relshp 1
-famRelship2: Relshp 2
-famRelship3: Relshp 3
+relship1: Person
+relship2: Person
+relship3: Person
+relship4: Person
+famRelship1: Relationship
+famRelship2: Relationship
+famRelship3: Relationship
+famRelship4: Relationship
 gearText1: Spec1
 gearText2: Spec2
 gearText3: Spec3
@@ -200,6 +202,7 @@ ____________________________________________________________________________
 🧍 `INPUT[text:relship1]`  👩‍👦‍👦 `INPUT[text:famRelship1]`
 🧍 `INPUT[text:relship2]`  👩‍👦‍👦 `INPUT[text:famRelship2]` 
 🧍 `INPUT[text:relship3]`  👩‍👦‍👦 `INPUT[text:famRelship3]`
+🧍 `INPUT[text:relship4]`  👩‍👦‍👦 `INPUT[text:famRelship4]`
 ____________________________________________________________________________
 ###### **ILLUMINATION KEYS:** 
 🗝 `INPUT[text:illumKey1]`  🗝 `INPUT[text:allumKey2]`  🗝 `INPUT[text:allumKey3]`  
@@ -209,25 +212,6 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 
 
-
-
-> [!even-columns]
->
-> > [!abstract] About
-> >
-> > - Type: #book/nonfiction
-> > - [Author:: [[Cal Newport]]]
-> > - [pages:: 305]
-> > - [ddc:: 650.1]
-> > - [Year published:: [[2012]]]
->
-> > [!bookinfo] Reading
-> >
-> > - [status:: read]
-> > - [rating:: 4.75]
-> > - [added:: 2022-10-29]
-> > - [started:: 2022-10-29]
-> > - [read:: 2022-10-29]
 
 
 
