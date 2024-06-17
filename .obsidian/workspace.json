@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Circle Sheet.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Circle Sheet.md",
+                "file": "Templates/New Player Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Circle Sheet.md",
+                "file": "Templates/New Player Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Circle Sheet.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Circle Sheet.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           }
@@ -191,14 +192,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d875dc7bbc1ffa8",
+  "active": "82a4ca3b87b2d0f8",
   "lastOpenFiles": [
-    "x_ref/Callouts.md",
     "Templates/Circle Sheet.md",
+    "Templates/New Player Test.md",
+    "x_ref/Callouts.md",
     "callouts/call outs.md",
     "x_ref/x_ref.md",
     "x_ref",
-    "Templates/New Player Test.md",
     "Templates/Test.md",
     "Templates/Notable Location.md",
     "Templates/Notable Figure.md",

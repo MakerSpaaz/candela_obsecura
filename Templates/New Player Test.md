@@ -100,40 +100,88 @@ Question: `INPUT[text(showcase):question]`
 ____________________________________________________________________________
 
 ###### **NERVE:** 
-*Max Drives:*      `VIEW[{sldrNerveMaxDrives}][text]`
-*Drives:*      `VIEW[{sldrNerveDrives}][text]`
 > [!info] NERVE  
-> | MOVE    `VIEW[{sldrMove}][text]`  | STRIKE    `VIEW[{sldrStrike}][text]`    | CONTROL    `VIEW[{sldrControl}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | Max Drives `VIEW[{sldrNerveMaxDrives}][text]` | Drives `VIEW[{sldrNerveDrives}][text]`  |
-> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMove]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrStrike]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrControl]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResNerve]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrNerveMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrNerveDrives]` |
+> ```text-progress-bar
+> Drives:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> 
+> ```text-progress-bar
+>Max Dr:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> ```
+>>
+>> | MOVE    `VIEW[{sldrMove}][text]`  | STRIKE    `VIEW[{sldrStrike}][text]`    | CONTROL    `VIEW[{sldrControl}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | 
+>> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | 
+>> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMove]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrStrike]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrControl]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResNerve]`  |
  
 ###### **CUNNING:** 
-*Max Drives:*      `VIEW[{sldrCunningMaxDrives}][text]`
-*Drives:*      `VIEW[{sldrCunningDrives}][text]`
-> [!info] CUNNING    Max Drives: `VIEW[{sldrNerveMaxDrives}][text]` Drives: `VIEW[{sldrNerveDrives}][text]`
-> | Sway    `VIEW[{sldrSway}][text]`  | Read    `VIEW[{sldrRead}][text]`    | Hide    `VIEW[{sldrHide}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | Max Drives `VIEW[{sldrCunningMaxDrives}][text]` | Drives `VIEW[{sldrCunningDrives}][text]`  |
-> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSway]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrRead]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrHide]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResCunning]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrCunningMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrCunningDrives]` |
+
+> [!INFO] **CUNNING**
+> ```text-progress-bar
+> Drives:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> 
+> ```text-progress-bar
+>Max Dr:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> ```
+>> 
+>> | Sway    `VIEW[{sldrSway}][text]`  | Read    `VIEW[{sldrRead}][text]`    | Hide    `VIEW[{sldrHide}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | 
+>> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | 
+>> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSway]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrRead]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrHide]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResCunning]`  |
+
 
 ###### **INTUITION:** 
-*Max Drives:*      `VIEW[{sldrIntuitionMaxDrives}][text]`
-*Drives:*      `VIEW[{sldrIntuitionDrives}][text]`
-
-> [!info] INTUITION    Max Drives: `VIEW[{sldrIntuitionMaxDrives}][text]` Drives: `VIEW[{sldrIntuitionDrives}][text]`
-> | Survey    `VIEW[{sldrSurvey}][text]`  | Focus    `VIEW[{sldrFocus}][text]`    | Sense    `VIEW[{sldrSense}][text]`      | RESISTANCE `VIEW[{sldrResIntuition}][text]` | Max Drives `VIEW[{sldrIntuitionMaxDrives}][text]` | Drives `VIEW[{sldrIntuitionDrives}][text]`  |
-> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSurvey]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrFocus]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSense]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResIntuition]`  | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrIntuitionMaxDrives]` | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(9), stepSize(1)):sldrIntuitionDrives]` |
-
+> [!INFO] **INTUITION**
+> ```text-progress-bar
+> Drives:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> 
+> ```text-progress-bar
+>Max Dr:0/3
+> transition:⣦
+> fill:📗
+> empty:⣿
+> prefix:⎸
+> suffix:⎹
+> length:3
+> ```
+>> | Survey    `VIEW[{sldrSurvey}][text]`  | Focus    `VIEW[{sldrFocus}][text]`    | Sense    `VIEW[{sldrSense}][text]`      | RESISTANCE `VIEW[{sldrResIntuition}][text]` |
+>> | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+>> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSurvey]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrFocus]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSense]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResIntuition]`  | 
 ____________________________________________________________________________
 
 ###### **ROLE:**   
-:CoInstance:`INPUT[text:role0]`
-:CoInstance: `INPUT[text:role1]`  :CoInstance: `INPUT[text:role2]`  :CoInstance: `INPUT[text:role3]`  
+🔹`INPUT[text:role0]`🔹 `INPUT[text:role1]` 🔹 `INPUT[text:role2]`  🔹 `INPUT[text:role3]`  
 ____________________________________________________________________________
 
 ###### **SPECIALITY:** 
-:CoInstance:`INPUT[text:speciality0]`
-:CoInstance: `INPUT[text:speciality1]`  :CoInstance: `INPUT[text:speciality2]`  :CoInstance: `INPUT[text:speciality3]`  :CoInstance: `INPUT[text:speciality4]` 
+🔹`INPUT[text:speciality0]`🔹 `INPUT[text:speciality1]`  🔹 `INPUT[text:speciality2]`  🔹 `INPUT[text:speciality3]`  🔹`INPUT[text:speciality4]` 
 ____________________________________________________________________________
 ###### **MARKS:**
 | BODY    `VIEW[{sldrMarkBody}][text]`  | BRAIN    `VIEW[{sldrMarkBrain}][text]`    | BLEED    `VIEW[{sldrMarkBleed}][text]`      | 
@@ -162,6 +210,24 @@ ____________________________________________________________________________
 
 
 
+
+> [!even-columns]
+>
+> > [!abstract] About
+> >
+> > - Type: #book/nonfiction
+> > - [Author:: [[Cal Newport]]]
+> > - [pages:: 305]
+> > - [ddc:: 650.1]
+> > - [Year published:: [[2012]]]
+>
+> > [!bookinfo] Reading
+> >
+> > - [status:: read]
+> > - [rating:: 4.75]
+> > - [added:: 2022-10-29]
+> > - [started:: 2022-10-29]
+> > - [read:: 2022-10-29]
 
 
 
