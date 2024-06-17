@@ -190,19 +190,19 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 
 ###### **SCARS:** 
-:CoInstance: `INPUT[text:scar1]`  :CoInstance: `INPUT[text:scar2]`  :CoInstance: `INPUT[text:scar3]`  
+🩹 `INPUT[text:scar1]`  🩹 `INPUT[text:scar2]`  🩹 `INPUT[text:scar3]`  
 ____________________________________________________________________________
 
 ###### **GEAR:** *During each assignment, choose up to three*
-:CoInstance: `INPUT[text:gear1]`  :CoInstance: `INPUT[text:gear2]`  :CoInstance: `INPUT[text:gear3]`  :CoInstance: `INPUT[text:gear4]`  :CoInstance: `INPUT[text:gear5]`  
+⚙ `INPUT[text:gear1]`  ⚙ `INPUT[text:gear2]`  ⚙ `INPUT[text:gear3]`  ⚙ `INPUT[text:gear4]`  ⚙ `INPUT[text:gear5]`  
 ____________________________________________________________________________
 ###### **RELATIONSHIPS:** 
-:CoInstance: `INPUT[text:relship1]`  :CoInstance: `INPUT[text:famRelship1]`
-:CoInstance: `INPUT[text:relship2]`  :CoInstance: `INPUT[text:famRelship2]` 
-:CoInstance: `INPUT[text:relship3]`  :CoInstance: `INPUT[text:famRelship3]`
+🧍 `INPUT[text:relship1]`  👩‍👦‍👦 `INPUT[text:famRelship1]`
+🧍 `INPUT[text:relship2]`  👩‍👦‍👦 `INPUT[text:famRelship2]` 
+🧍 `INPUT[text:relship3]`  👩‍👦‍👦 `INPUT[text:famRelship3]`
 ____________________________________________________________________________
 ###### **ILLUMINATION KEYS:** 
-:CoInstance: `INPUT[text:illumKey1]`  :CoInstance: `INPUT[text:allumKey2]`  :CoInstance: `INPUT[text:allumKey3]`  
+🗝 `INPUT[text:illumKey1]`  🗝 `INPUT[text:allumKey2]`  🗝 `INPUT[text:allumKey3]`  
 ____________________________________________________________________________
 ###### **NOTES:** 
 `INPUT[textArea:notes]`

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/New Player Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -194,6 +194,7 @@
   },
   "active": "82a4ca3b87b2d0f8",
   "lastOpenFiles": [
+    "icons/mouth-slash-svgrepo-com.svg",
     "Templates/Circle Sheet.md",
     "Templates/New Player Test.md",
     "x_ref/Callouts.md",
@@ -222,7 +223,6 @@
     "Other/Example Notes",
     "Other",
     "2. Players/weird_Occultist.md",
-    "Templates/New Player Test 1.file/New Player Test 1.file.md",
     "Templates/New Player Test 1.file",
     "z_images/candela_logo.png",
     "Templates/New Player 1.file",
