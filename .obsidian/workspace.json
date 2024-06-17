@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Circle Sheet.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Circle Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Circle Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Circle Sheet.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Circle Sheet.md"
               }
             }
           }
@@ -194,8 +194,11 @@
   },
   "active": "82a4ca3b87b2d0f8",
   "lastOpenFiles": [
-    "Templates/Test.md",
+    "icons/rune.svg",
+    "z_images/rune.png",
+    "z_images/file.png",
     "Templates/New Player Test.md",
+    "Templates/Test.md",
     "icons/mouth-slash-svgrepo-com.svg",
     "Templates/Circle Sheet.md",
     "x_ref/Callouts.md",
@@ -235,8 +238,6 @@
     "New folder",
     "7. Players",
     "abstract-047.svg",
-    "abstract-046.svg",
-    "abstract-045.svg",
     "Tags",
     "z_images/~unes2.tmp"
   ]
