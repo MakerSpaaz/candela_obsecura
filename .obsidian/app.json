@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "propertiesInDocument": "source",
-  "livePreview": false
+  "livePreview": false,
+  "showUnsupportedFiles": true
 }

@@ -150,3 +150,11 @@ INPUT[slider(nonExistantArgument)]
 > > - [started:: 2022-10-29]
 > > - [read:: 2022-10-29]
 
+
+```run-python
+def hello(name):
+print("Hello", name)
+
+    if __name__ == "__main__":
+        hello("Eve")
+````
