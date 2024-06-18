@@ -1,2 +1,2 @@
-One of the many parks in [[Briar Green]], Revenant Park has a dark history. Decades ago, the land was cleared and planted by the Green City Commission. After a particularly rainy spring, citizens of Newfaire were horrified to discover human remains floating to the surface of the muddy land. Though it officially bears the name Regent Park, locals use its new, darker moniker.
-![[background13-1.jpeg|400]]
+
+![[background13-1.jpeg|right lp|600]] One of the many parks in [[Briar Green]], Revenant Park has a dark history. Decades ago, the land was cleared and planted by the Green City Commission. After a particularly rainy spring, citizens of Newfaire were horrified to discover human remains floating to the surface of the muddy land. Though it officially bears the name Regent Park, locals use its new, darker moniker.

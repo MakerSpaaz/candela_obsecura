@@ -1,6 +1,9 @@
 ---
 aliases:
   - endless descent
+tags:
+  - POI
+  - oldfaire
 ---
 
 A massive, ornate staircase that descends into blackness. It is located at the end of a brick square surrounded by a series of arches, and seems to have some political or religious significance. The stone at the top of the staircase is heavily damaged, but becomes more pristine the further down one travels. Each individual stair is 72 feet wide by 108 feet long

@@ -32,7 +32,7 @@ gearText6: Spec6
 illumText1: Illum 1
 illumText2: Illum 2
 illumText3: Illum 3
-name: 
+name: Smack McBottom
 pronouns: 
 circle: 
 style: 
@@ -72,37 +72,46 @@ sldrMarkBody: 0
 
 
 
---- start-multi-column: ID_4xdz
-```column-settings
-Number of Columns: 4
-Largest Column: standard
-```
-
-![[candela_logo.png|250]]
-
---- column-break ---
 
 Name: `INPUT[text(showcase):name]`
 Pronoun(s): `INPUT[text(showcase):pronouns]`
 Circle: `INPUT[text(showcase):circle]`
 
-
---- column-break ---
+---------
 
 Style: `INPUT[text(showcase):style]`
 Catalyst: `INPUT[text(showcase):catalyst]`
 Question: `INPUT[text(showcase):question]`
 
---- column-break ---
-
-![[Designer(6).jpeg|250]]
-
-
---- end-multi-column
 ____________________________________________________________________________
-
+> [!infobox|right wmtl]+
+> # `VIEW[{name}][text]`
+> ![[Designer(6).jpeg|hsmall]] 
+> ###### NERVE 
+> | Skill | Stat | 
+> | ---- | ---- | 
+> |Move |  `VIEW[{sldrMove}][text]` |
+> | Strike | `VIEW[{sldrStrike}][text]` | 
+> | Control |  `VIEW[{sldrControl}][text]` |
+> | Resistance | `VIEW[{sldrResNerve}][text]` |
+> 
+> ##### CUNNING 
+> | Skill | Stat | 
+> | ---- | ---- | 
+> | Sway | `VIEW[{sldrSway}][text]` | 
+> | Read | `VIEW[{sldrRead}][text]` | 
+> | Hide | `VIEW[{sldrHide}][text]`  | 
+> | Resistance | `VIEW[{sldrResCunning}][text]` |
+>
+> ##### Stats 2 
+> | Skill | Stat | 
+> | ---- | ---- | 
+> | Survey | `VIEW[{sldrSurvey}][text]` | 
+> | Focus | `VIEW[{sldrFocus}][text]` | 
+> | Sense | `VIEW[{sldrSense}][text]`  | 
+> | Resistance | `VIEW[{sldrResIntuition}][text]` |
 ###### **NERVE:** 
-> [!info] NERVE  
+> [!info|wfit] NERVE  
 > ```text-progress-bar
 > Drives:0/3
 > transition:⣦
@@ -122,13 +131,13 @@ ____________________________________________________________________________
 > length:3
 > ```
 >>
->> | MOVE    `VIEW[{sldrMove}][text]`  | STRIKE    `VIEW[{sldrStrike}][text]`    | CONTROL    `VIEW[{sldrControl}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | 
+>> | MOVE   `VIEW[{sldrMove}][text]`    | STRIKE    `VIEW[{sldrStrike}][text]`    | CONTROL    `VIEW[{sldrControl}][text]`      | RESISTANCE `VIEW[{sldrResNerve}][text]` | 
 >> | -------------------------- | -------------------------- | -------------------------- | -------------------------- | 
 >> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrMove]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrStrike]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrControl]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResNerve]`  |
  
 ###### **CUNNING:** 
 
-> [!INFO] **CUNNING**
+> [!info|wfit] **CUNNING**
 > ```text-progress-bar
 > Drives:0/3
 > transition:⣦
@@ -154,7 +163,7 @@ ____________________________________________________________________________
 
 
 ###### **INTUITION:** 
-> [!INFO] **INTUITION**
+> [!info|wfit] **INTUITION**
 > ```text-progress-bar
 > Drives:0/3
 > transition:⣦

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Circle Sheet.md",
+                "file": "x_ref/Callouts.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "79b59e44a5e169b3",
+            "id": "9b86c7b4fab8f166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Test.md",
+                "file": "Templates/New Player Test.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file::\"User Docs/",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.50000381469727
+    "width": 310.5
   },
   "right": {
     "id": "215e731ac085fbc9",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Test.md",
+                "file": "Templates/New Player Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Test.md",
+                "file": "Templates/New Player Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Test.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Test.md"
+                "file": "Templates/New Player Test.md"
               }
             }
           }
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,56 +189,57 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79b59e44a5e169b3",
+  "active": "9b86c7b4fab8f166",
   "lastOpenFiles": [
-    "Tags",
+    "x_ref/Callouts.md",
+    "Templates/New Player Test.md",
+    "Templates/Test.md",
+    "x_ref/Untitled.md",
+    "x_ref/x_ref.md",
+    "Templates/Wiki_Right.md",
+    "z_images/Candela_Obscura_wordmark.png",
+    "x_ref/ITS Links.md",
+    "z_images/Designer(6).jpeg",
+    "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
+    "Templates/Notable Figure.md",
+    "Templates/WIKI Template.md",
     "Templates/Templates.md",
-    "3. World/Districts Of Newfaire/South Soffit/Points Of Interest/Thread & Fur Texidermy.md",
-    "Templates/Pregen Player Sheets/Weird_Occultist.md",
+    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Mara Winfield Botanical Conservatory.md",
+    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Revenant Park.md",
+    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Briarbank College.md",
+    "z_images/background8.jpg",
+    "Templates/Circle Sheet.md",
+    "3. World/Districts Of Newfaire/The Steam/People of Interest/Zyair Adisa.md",
+    "3. World/Districts Of Newfaire/silverslip/Silverslip.md",
+    "3. World/Districts Of Newfaire/Newfaire Districts.md",
+    "3. World/Oldfaire/Points of interest/The Endless Descent/Sixth Step.md",
+    "3. World/Oldfaire/Points of interest/The Endless Descent/Thirty Sixth Step.md",
+    "3. World/Oldfaire/Points of interest/The Endless Descent/Seventy Second Step.md",
+    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Deathbed.md",
+    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Outer Rings.md",
+    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Inner Veil.md",
+    "3. World/Oldfaire/Points of interest/The Anatithenai/The Anatithenai.md",
+    "3. World/Oldfaire/Points of interest/Dig Site 347/Pulsing Heart.md",
+    "3. World/Oldfaire/Points of interest/Dig Site 347/Remnants.md",
+    "Tags",
     "Templates/Pregen Player Sheets",
     "x_ref/Candela Obscura QSG Pregens - May 30.pdf",
     "x_ref/Candela Obscura QSG Field Guide - May 24.pdf",
     "x_ref/Candela Obscura QSG Circle Sheet - May 24.pdf",
     "x_ref/Candela Obscura QSG - May 30.pdf",
     "x_ref/Candela Obscura Core Rulebook PDF - November 2023-1.pdf",
-    "3. World/Districts Of Newfaire/South Soffit/Points Of Interest/Margin Pub.md",
-    "3. World/Districts Of Newfaire/South Soffit/Points Of Interest/The Clara House.md",
-    "3. World/Districts Of Newfaire/South Soffit/People of interest/Clara Bellecourt.md",
-    "3. World/Districts Of Newfaire/South Soffit/People of interest/Kailey Zhang.md",
-    "3. World/Districts Of Newfaire/South Soffit/People of interest/Oliver Berrada.md",
-    "3. World/Districts Of Newfaire/Hallowharbor/Notable Figure/Grint Barrows.md",
-    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Revenant Park.md",
-    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Mara Winfield Botanical Conservatory.md",
-    "Templates/Circle Sheet.md",
     "icons/rune.svg",
     "z_images/rune.png",
     "z_images/file.png",
-    "Templates/New Player Test.md",
-    "Templates/Test.md",
     "icons/mouth-slash-svgrepo-com.svg",
-    "x_ref/Callouts.md",
-    "callouts/call outs.md",
-    "x_ref/x_ref.md",
     "x_ref",
-    "Templates/Notable Location.md",
-    "Templates/Notable Figure.md",
-    "README.md",
-    "4. Mechanics/Gear.md",
-    "4. Mechanics/Rules.md",
-    "4. Mechanics/Special Abilities.md",
-    "4. Mechanics/Drives.md",
-    "4. Mechanics/Roles.md",
     "Other/Example Notes",
     "Other",
     "z_images/candela_logo.png",
-    "Templates/New Player 1.file",
-    "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
-    "icons/3d-glasses.svg",
-    "icons/3d-stairs.svg",
-    "icons/3d-meeple.svg",
-    "icons/3d-hammer.svg"
+    "icons/3d-glasses.svg"
   ]
 }
