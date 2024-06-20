@@ -32,7 +32,7 @@ gearText6: Spec6
 illumText1: Illum 1
 illumText2: Illum 2
 illumText3: Illum 3
-name: Smack McBottom
+name: Slash McBottom
 pronouns: 
 circle: 
 style: 
@@ -188,11 +188,11 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 
 ###### **ROLE:**   
-🔹`INPUT[text:role0]`🔹 `INPUT[text:role1]` 🔹 `INPUT[text:role2]`  🔹 `INPUT[text:role3]`  
+🔹 `INPUT[text:role1]` 🔹 `INPUT[text:role2]`  🔹 `INPUT[text:role3]`  
 ____________________________________________________________________________
 
 ###### **SPECIALITY:** 
-🔹`INPUT[text:speciality0]`🔹 `INPUT[text:speciality1]`  🔹 `INPUT[text:speciality2]`  🔹 `INPUT[text:speciality3]`  🔹`INPUT[text:speciality4]` 
+🔹 `INPUT[text:speciality1]`  🔹 `INPUT[text:speciality2]`  🔹 `INPUT[text:speciality3]`  
 ____________________________________________________________________________
 ###### **MARKS:**
 | BODY    `VIEW[{sldrMarkBody}][text]`  | BRAIN    `VIEW[{sldrMarkBrain}][text]`    | BLEED    `VIEW[{sldrMarkBleed}][text]`      | 

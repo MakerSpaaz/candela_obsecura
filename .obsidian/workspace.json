@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "9b86c7b4fab8f166",
+            "id": "4329004dde1561b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "065be241276ce7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Wiki_Right.md",
                 "mode": "source",
                 "source": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Player Test.md",
+                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/New Player Test.md"
+                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md"
               }
             }
           }
@@ -193,53 +205,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b86c7b4fab8f166",
+  "active": "4329004dde1561b0",
   "lastOpenFiles": [
-    "x_ref/Callouts.md",
+    "Templates/Role Types/weird.md",
+    "Templates/Role Types/Weird/Weird Abilities.md",
+    "Templates/Wiki_Right.md",
     "Templates/New Player Test.md",
+    "Templates/Role Types/Great Wards.md",
+    "Templates/Circle Sheet.md",
+    "Templates/Pregen Player Sheets/Weird_Occultist.md",
+    "z_images/Designer(6).jpeg",
+    "Templates/Role Types/Great Wards 1.file/Great Wards 1.file.md",
+    "Templates/Role Types/Weird/Let Them In .md",
+    "Templates/Role Types/Great Wards 1.file",
+    "Templates/Role Types/Weird/Weird.md",
+    "z_images/icons8-dishonored-rune-marking-50.png",
+    "z_images/icons8-mortal-48.png",
+    "z_images/icons8-mortal-24.png",
+    "z_images/z_images.7z",
+    "z_images/icons8-mortal-those-icons-lineal-color.zip",
+    "Templates/Pregen Player Sheets/PC Callout.md",
+    "Templates/Role Types/Weird",
+    "Templates/Templates.md",
+    "callouts/call outs.md",
+    "callouts/Great Wards.md",
+    "4. Mechanics/Roles.md",
+    "Templates/Player Types/Untitled 1.md",
+    "Templates/Role Types/Role Types.md",
+    "Templates/Role Types",
+    "Templates/New Player Test 1.file/New Player Test.md",
+    "Templates/New Player Test 1.file",
+    "x_ref/Callouts.md",
     "Templates/Test.md",
     "x_ref/Untitled.md",
     "x_ref/x_ref.md",
-    "Templates/Wiki_Right.md",
     "z_images/Candela_Obscura_wordmark.png",
     "x_ref/ITS Links.md",
-    "z_images/Designer(6).jpeg",
     "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
     "Templates/Notable Figure.md",
     "Templates/WIKI Template.md",
-    "Templates/Templates.md",
     "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Mara Winfield Botanical Conservatory.md",
-    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Revenant Park.md",
-    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Briarbank College.md",
     "z_images/background8.jpg",
-    "Templates/Circle Sheet.md",
-    "3. World/Districts Of Newfaire/The Steam/People of Interest/Zyair Adisa.md",
-    "3. World/Districts Of Newfaire/silverslip/Silverslip.md",
-    "3. World/Districts Of Newfaire/Newfaire Districts.md",
-    "3. World/Oldfaire/Points of interest/The Endless Descent/Sixth Step.md",
-    "3. World/Oldfaire/Points of interest/The Endless Descent/Thirty Sixth Step.md",
-    "3. World/Oldfaire/Points of interest/The Endless Descent/Seventy Second Step.md",
-    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Deathbed.md",
-    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Outer Rings.md",
-    "3. World/Oldfaire/Points of interest/The Anatithenai/places ofinterest/Inner Veil.md",
-    "3. World/Oldfaire/Points of interest/The Anatithenai/The Anatithenai.md",
-    "3. World/Oldfaire/Points of interest/Dig Site 347/Pulsing Heart.md",
-    "3. World/Oldfaire/Points of interest/Dig Site 347/Remnants.md",
     "Tags",
     "Templates/Pregen Player Sheets",
     "x_ref/Candela Obscura QSG Pregens - May 30.pdf",
     "x_ref/Candela Obscura QSG Field Guide - May 24.pdf",
-    "x_ref/Candela Obscura QSG Circle Sheet - May 24.pdf",
-    "x_ref/Candela Obscura QSG - May 30.pdf",
-    "x_ref/Candela Obscura Core Rulebook PDF - November 2023-1.pdf",
     "icons/rune.svg",
     "z_images/rune.png",
-    "z_images/file.png",
-    "icons/mouth-slash-svgrepo-com.svg",
-    "x_ref",
-    "Other/Example Notes",
-    "Other",
-    "z_images/candela_logo.png",
-    "icons/3d-glasses.svg"
+    "z_images/file.png"
   ]
 }
