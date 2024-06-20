@@ -1,0 +1,7 @@
+---
+tags:
+  - POI
+  - oldfaire
+  - anatithenai
+---
+Deep inside the Anatithenai lies a black sarcophagus carved from a single stone. No one has been able to move or open it (though many have tried), and there doesn’t appear to be a lid. Some historians believe this is the final resting place of [[Empress Iomene]]. Others cite recently uncovered ancient texts that describe her body going missing, with no funeral rites performed.
