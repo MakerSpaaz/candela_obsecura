@@ -57,7 +57,9 @@
     "//2. Players",
     "//Templates",
     "//Templates/Templates/Role Types",
-    "//Templates/Templates/Role Types/Templates/Role Types/Great Wards 1.file"
+    "//Templates/Templates/Role Types/Templates/Role Types/Great Wards 1.file",
+    "//Templates/Templates/Role Types/Templates/Role Types/Weird",
+    "//4. Mechanics"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

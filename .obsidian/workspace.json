@@ -14,19 +14,46 @@
               "type": "markdown",
               "state": {
                 "file": "x_ref/Callouts.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "602184f9ba28157d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Templates/Role Types/Relationship Canvas.canvas",
+                "viewState": {
+                  "x": -331.21772079339644,
+                  "y": 160.45621749297743,
+                  "zoom": -0.5
+                }
+              }
+            }
+          },
+          {
+            "id": "167b74c863b99aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Role Types/Relationship Questions.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4329004dde1561b0",
+            "id": "799d116e21f38d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
-                "mode": "preview",
+                "file": "Templates/Test.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -119,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
+                "file": "Templates/Role Types/Relationship Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md",
+                "file": "Templates/Role Types/Relationship Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md"
+                "file": "Templates/Role Types/Relationship Canvas.canvas"
               }
             }
           },
@@ -181,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Pregen Player Sheets/Weird_Occultist.md"
+                "file": "Templates/Role Types/Relationship Canvas.canvas"
               }
             }
           }
@@ -190,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,56 +230,57 @@
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "4329004dde1561b0",
+  "active": "602184f9ba28157d",
   "lastOpenFiles": [
-    "Templates/Role Types/weird.md",
-    "Templates/Role Types/Weird/Weird Abilities.md",
-    "Templates/Wiki_Right.md",
-    "Templates/New Player Test.md",
-    "Templates/Role Types/Great Wards.md",
-    "Templates/Circle Sheet.md",
+    "Templates/Role Types/Relationship Questions.md",
+    "Templates/Role Types/Relationship Canvas.canvas",
+    "icons/libremchat-svgrepo-com.svg",
+    "x_ref/Callouts.md",
+    "icons/teamwork-svgrepo-com.svg",
+    "icons/team-upgrade.svg",
+    "icons/teamwork-team-people-business-meeting-group-office-svgrepo-com.svg",
+    "icons/teamwork-svgrepo-com (1).svg",
+    "icons/teamwork-team-svgrepo-com.svg",
+    "icons/teamwork-job-svgrepo-com.svg",
+    "icons/teamwork-svgrepo-com (2).svg",
+    "icons/bully-minion.svg",
+    "icons/bully-minion-svgrepo-com.svg",
+    "callouts/call outs.md",
     "Templates/Pregen Player Sheets/Weird_Occultist.md",
-    "z_images/Designer(6).jpeg",
-    "Templates/Role Types/Great Wards 1.file/Great Wards 1.file.md",
-    "Templates/Role Types/Weird/Let Them In .md",
+    "Templates/Role Types/weird.md",
+    "4. Mechanics/Rules.md",
+    "4. Mechanics/Roles.md",
+    "Templates/Role Types/Abilities/Weird.md",
+    "Templates/Role Types/Special Abilities/Occultist.md",
+    "Templates/Test.md",
+    "Templates/Pregen Player Sheets/PC Callout.md",
+    "Templates/Role Types/Special Abilities/Medium.md",
+    "Templates/Role Types/Special Abilities/Detective.md",
+    "Templates/Role Types/Special Abilities/Criminal.md",
+    "Templates/Role Types/Special Abilities/Professor.md",
+    "Templates/Role Types/Special Abilities/Doctor.md",
+    "Templates/Role Types/Special Abilities/Soldier.md",
+    "Templates/Role Types/Special Abilities/Explorer.md",
+    "Templates/Role Types/Special Abilities/Magician.md",
+    "Templates/Role Types/Special Abilities/Journalist.md",
+    "Templates/Role Types/Special Abilities/Special Abilities.md",
+    "Templates/Role Types/Abilities/Slink.md",
+    "Templates/Role Types/Special Abilities",
+    "Templates/Role Types/Role Types.md",
+    "Templates/Role Types/Abilities/Face.md",
+    "Templates/Role Types/Abilities/Abilities.md",
     "Templates/Role Types/Great Wards 1.file",
-    "Templates/Role Types/Weird/Weird.md",
-    "z_images/icons8-dishonored-rune-marking-50.png",
-    "z_images/icons8-mortal-48.png",
-    "z_images/icons8-mortal-24.png",
     "z_images/z_images.7z",
     "z_images/icons8-mortal-those-icons-lineal-color.zip",
-    "Templates/Pregen Player Sheets/PC Callout.md",
-    "Templates/Role Types/Weird",
-    "Templates/Templates.md",
-    "callouts/call outs.md",
-    "callouts/Great Wards.md",
-    "4. Mechanics/Roles.md",
-    "Templates/Player Types/Untitled 1.md",
-    "Templates/Role Types/Role Types.md",
+    "Templates/Role Types/Abilities",
     "Templates/Role Types",
-    "Templates/New Player Test 1.file/New Player Test.md",
     "Templates/New Player Test 1.file",
-    "x_ref/Callouts.md",
-    "Templates/Test.md",
-    "x_ref/Untitled.md",
-    "x_ref/x_ref.md",
-    "z_images/Candela_Obscura_wordmark.png",
-    "x_ref/ITS Links.md",
-    "z_images/800px-Candela_Obscura_wordmark-2532188816.png",
-    "Templates/Notable Figure.md",
-    "Templates/WIKI Template.md",
-    "3. World/Districts Of Newfaire/Briar Green/Places of Interest/Mara Winfield Botanical Conservatory.md",
-    "z_images/background8.jpg",
     "Tags",
     "Templates/Pregen Player Sheets",
-    "x_ref/Candela Obscura QSG Pregens - May 30.pdf",
-    "x_ref/Candela Obscura QSG Field Guide - May 24.pdf",
-    "icons/rune.svg",
-    "z_images/rune.png",
-    "z_images/file.png"
+    "x_ref/Candela Obscura QSG Pregens - May 30.pdf"
   ]
 }
