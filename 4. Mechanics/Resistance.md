@@ -3,16 +3,14 @@ banner: "![[candela_obscura.jpg]]"
 ---
  **For every 3 maximum drive points you have, you also gain 1 point of resistance in that drive.** 
   
-Resistance is a character’s way of pushing back against a consequence. Any time you don’t like the result of your roll, you may choose to burn 1 resistance point from the drive related to that action. (Your resistance points are not affected by your drive expenditures, as resistance relies on your maximum drive points, not your current available points.)
- 
-For example, if you want to resist the consequences of a Control roll, you would burn a Nerve resistance. Even if your Nerve only has 1 current drive point available to spend, if your maximum is 3, you still have that resistance available to burn.
+Resistances are a PC’s way of pushing back against a consequence. Anytime you don’t like the result of your roll, you may choose to spend a resistance from the pertaining drive (Nerve, Cunning, or Intuition). You have 1 resistance per 3 maximum drive. This resistance does not go away if you spend your drive points. For example, if your maximum drive is 4, but you’ve spent 3 drive (so now you have 1), you still have your 1 resistance.
 
-After burning a resistance, you may reroll a number of dice equal to the rating of the action. If you spent drive or were assisted on the previous action roll, those dice are not included in the resistance roll. If that action is gilded, you still roll with a gilded die. If the action you are rerolling has a rating of 0, you roll two dice and take the lowest result. You must take the new result of the resistance roll unless you choose to burn another resistance point to roll again.
+After spending a resistance, you reroll the number of dice equal to the rating of the action used for the previous roll. You may not include the dice from any spent drive or assistance you initially received. If the action is gilded, you may still roll with a gilded die. If the action you are rerolling has a value of 0, you roll two dice and take the lower result. You must accept the result of the new resistance roll unless you spend another resistance to roll again.
 
->>Kat ducks behind a set of wooden crates, hoping to go unseen by the fiery apparition that is
->>guarding the warehouse. The GM calls for a Hide roll, in which Kat has an action rating of 2.
->>They decide to spend 1 Cunning and roll three dice. The results are two 3s and a 1, all failures.
->>Fearing the repercussions of being spotted, they burn a Cunning resistance to reroll two dice.
->>The results are a 3 and a 6, making the new result a full success.
+>>Kat rolls with Control to see if their character can successfully pick the lock on a door. They have 2 points in this action, and it is gilded. They choose to spend a Nerve drive to add an additional die to their roll. They now roll three dice, one of which is gilded, and choose a result.
+>>
+>>The two standard dice roll a 3 and a 6. The gilded die rolls a 5.
+>>
+>> Kat could take the full success, but instead they choose to replenish 1 point of their Nerve and
 
 Resistances are automatically restored when you use the Refresh resource between assignments.

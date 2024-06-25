@@ -93,7 +93,7 @@ ____________________________________________________________________________
 > [!infobox|right wmtl]+
 > # `VIEW[{name}][text]`
 > ![[Designer(6).jpeg|ws-med]] 
-> ###### NERVE 
+>  ##### Nerve 
 > | Skill | Stat | 
 > | ---- | ---- | 
 > |Move |  `VIEW[{sldrMove}][text]` |
@@ -101,7 +101,7 @@ ____________________________________________________________________________
 > | Control |  `VIEW[{sldrControl}][text]` |
 > | Resistance | `VIEW[{sldrResNerve}][text]` |
 > 
-> ##### CUNNING 
+> ##### Cunning
 > | Skill | Stat | 
 > | ---- | ---- | 
 > | Sway | `VIEW[{sldrSway}][text]` | 
@@ -109,13 +109,14 @@ ____________________________________________________________________________
 > | Hide | `VIEW[{sldrHide}][text]`  | 
 > | Resistance | `VIEW[{sldrResCunning}][text]` |
 >
-> ##### Stats 2 
+> ##### Intuition 
 > | Skill | Stat | 
 > | ---- | ---- | 
 > | Survey | `VIEW[{sldrSurvey}][text]` | 
 > | Focus | `VIEW[{sldrFocus}][text]` | 
 > | Sense | `VIEW[{sldrSense}][text]`  | 
 > | Resistance | `VIEW[{sldrResIntuition}][text]` |
+
 ###### **NERVE:** 
 > [!info|wfit] NERVE  
 > ```text-progress-bar
@@ -143,7 +144,7 @@ ____________________________________________________________________________
  
 ###### **CUNNING:** 
 
-> [!info|wfit] **CUNNING**
+> [!info|wfit] **CUNNING** 
 > ```text-progress-bar
 > Drives:0/3
 > transition:⣦

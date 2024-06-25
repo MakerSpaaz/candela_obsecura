@@ -59,7 +59,9 @@
     "//Templates/Templates/Role Types",
     "//Templates/Templates/Role Types/Templates/Role Types/Great Wards 1.file",
     "//Templates/Templates/Role Types/Templates/Role Types/Weird",
-    "//4. Mechanics"
+    "//4. Mechanics",
+    "//Templates/Templates/Role Types/Templates/Role Types/Abilities",
+    "//Templates/Templates/Role Types/Templates/Role Types/Special Abilities"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
