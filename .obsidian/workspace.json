@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "x_ref/Callouts.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -23,14 +23,11 @@
             "id": "602184f9ba28157d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Role Types/Relationship Canvas.canvas",
-                "viewState": {
-                  "x": -331.21772079339644,
-                  "y": 160.45621749297743,
-                  "zoom": -0.5
-                }
+                "file": "4. Mechanics/How To Play.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -146,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Role Types/Relationship Canvas.canvas",
+                "file": "4. Mechanics/How To Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Role Types/Relationship Canvas.canvas",
+                "file": "4. Mechanics/How To Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Role Types/Relationship Canvas.canvas"
+                "file": "4. Mechanics/How To Play.md"
               }
             }
           },
@@ -208,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Role Types/Relationship Canvas.canvas"
+                "file": "4. Mechanics/How To Play.md"
               }
             }
           }
@@ -236,19 +233,23 @@
   },
   "active": "602184f9ba28157d",
   "lastOpenFiles": [
+    "z_images/Candela_Obscura_wordmark.png",
+    "4. Mechanics/How To Play.md",
+    "Templates/Wiki_Right.md",
     "Templates/Role Types/Relationship Questions.md",
-    "Templates/Role Types/Relationship Canvas.canvas",
-    "icons/libremchat-svgrepo-com.svg",
     "x_ref/Callouts.md",
-    "icons/teamwork-svgrepo-com.svg",
-    "icons/team-upgrade.svg",
-    "icons/teamwork-team-people-business-meeting-group-office-svgrepo-com.svg",
-    "icons/teamwork-svgrepo-com (1).svg",
-    "icons/teamwork-team-svgrepo-com.svg",
-    "icons/teamwork-job-svgrepo-com.svg",
-    "icons/teamwork-svgrepo-com (2).svg",
-    "icons/bully-minion.svg",
-    "icons/bully-minion-svgrepo-com.svg",
+    "4. Mechanics/Circle Creation.md",
+    "Pasted image 20240625083917.png",
+    "4. Mechanics/Drives and Actions.md",
+    "Templates/Role Types/Relationship Canvas.canvas",
+    "icons/freemasonry-svgrepo-com.svg",
+    "icons/secret-book-svgrepo-com.svg",
+    "icons/mother-and-son-svgrepo-com.svg",
+    "icons/secret-svgrepo-com.svg",
+    "icons/key-svgrepo-com.svg",
+    "icons/libremchat-svgrepo-com.svg",
+    "icons/knowledge-base-svgrepo-com.svg",
+    "icons/knowledge-graph-data-model-svgrepo-com.svg",
     "callouts/call outs.md",
     "Templates/Pregen Player Sheets/Weird_Occultist.md",
     "Templates/Role Types/weird.md",
@@ -268,11 +269,7 @@
     "Templates/Role Types/Special Abilities/Magician.md",
     "Templates/Role Types/Special Abilities/Journalist.md",
     "Templates/Role Types/Special Abilities/Special Abilities.md",
-    "Templates/Role Types/Abilities/Slink.md",
     "Templates/Role Types/Special Abilities",
-    "Templates/Role Types/Role Types.md",
-    "Templates/Role Types/Abilities/Face.md",
-    "Templates/Role Types/Abilities/Abilities.md",
     "Templates/Role Types/Great Wards 1.file",
     "z_images/z_images.7z",
     "z_images/icons8-mortal-those-icons-lineal-color.zip",
