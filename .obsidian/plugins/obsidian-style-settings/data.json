@@ -1,3 +1,5 @@
 {
-  "ITS@@select": "dnd"
+  "ITS@@select": "dnd",
+  "ITS@@text@@light": "#76EB09",
+  "ITS@@hr-icon-font": "its"
 }

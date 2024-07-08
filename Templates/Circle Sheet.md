@@ -1,21 +1,13 @@
 ---
-banner: "![[candela_obscura.jpg]]"
-circleGear1: 
-circleGear2: 
-circleGear3: 
-circleGear4: 
-circleGear5: 
-circleGear6: 
-circleCampaign: 
-circleName: 
-circleBase: 
-circlePC1:
-circlePC2:
-circlePC3:
-circlePC4:
-circlePC5:
-
+name: Circle Name
 ---
+
+
+> [!infobox|right wmtl]+
+> # `VIEW[{name}][text]`
+> ![[openart-image_d3gKXsTy_1717497689419_raw.jpg|ws-med]] 
+
+
 ##### **Campaign Details**
 
 ###### **Chapter House:** *Chapter House Base of Operations*
@@ -124,9 +116,9 @@ circlePC5:
 >[!INFO] **CIRCLE ADVANCEMENT**
 > ILLUMINATION QUESTIONS & KEYS
 >Ask the following questions at the end of every assignment for every “yes,” fill in a point on the Illumination track, **earn 2 Illumination** if some, but not all, players fulfilled an Illumination Key during the session. Earn 4 if every player fulfilled at least one Illumination Key during the session. If nobody in the circle fulfilled any of their Keys, take no additional Illumination.
->> ❓ Did you contain or destroy a source of bleed?
->> ❓ Did you provide comfort or support for those affected?
->> ❓ Did you bring something of importance back for Candela Obscura to study?
+>> :RiQuestionnaireFill: Did you contain or destroy a source of bleed?
+>> :RiQuestionnaireFill: Did you provide comfort or support for those affected?
+>> :RiQuestionnaireFill: Did you bring something of importance back for Candela Obscura to study?
 
 
 >[!info] **Illumination Wheel**  

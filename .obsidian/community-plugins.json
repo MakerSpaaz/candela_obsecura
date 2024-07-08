@@ -6,7 +6,6 @@
   "obsidian-meta-bind-plugin",
   "multi-column-markdown",
   "obsidian-banners",
-  "custom-sidebar-icons",
   "obsidian-icon-folder",
   "make-md",
   "dataview",
@@ -16,5 +15,6 @@
   "execute-code",
   "table-editor-obsidian",
   "folder-notes",
-  "callout-manager"
+  "callout-manager",
+  "editing-toolbar"
 ]

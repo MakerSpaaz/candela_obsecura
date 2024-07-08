@@ -4,6 +4,9 @@ The city itself is on a slight slope toward the Glass Sea, with the southernmost
 
 The majority of the buildings of Newfaire highlight the organic style of Art Nouveau, with the look present in the most extravagant shops, mansions, and political buildings, as well as middle-class homes and humble stores. The restoration following the post-war bombings has shifted construction sensibilities to the more angular design of Art Deco—a style that the new titans of industry and electricity are keen to adopt.
 
+The city of Newfaire is built on the ruins of an older city called Oldfaire that had advanced knowledge of magick and technology. "The Flare" is the boundary between Newfaire and another realm inhabited by strange and often dangerous creatures. "Bleed" is a reality-distorting residue that is left behind when something crosses the Flare. Candela Obscura is an organisation that investigates these incursions from beyond the Flare, made up of small groups called Circles that answer to a Lightkeeper that gives them their assignments and is at least sometimes a former Circle operative. The members of a Circle are frequently people who have had some encounter with the incursions from this other realm.
+
+Other groups interested in The Bleed which Candela Obscura has encountered in their investigations include the Office of Unexplained Phenomenon (OUP), a quasi-governmental group; the Red Hand, a secret society of aristocrats and artists who covet Bleed-affected objects; and EONS (the Esoteric Order of New Sciences), who seem to have a complicated relationship with Candela Obscura.
 
 
 ![[city-sections.png]]

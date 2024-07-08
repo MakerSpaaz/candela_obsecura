@@ -1,3 +1,10 @@
-The gated community that makes up the bulk of the homes perched on the roofs of Oldfaire. The staff that work in these homes generally live directly underneath each building in South Soffit. It’s not uncommon for homeowners to also have “ground rights,” meaning that they own the lower-class homes in the portion of South Soffit beneath their manors. Staff are often forced to pay rent to the very people who pay their wages.
+---
+name: The High Terrace
+---
+> [!infobox|right wmtl]+
+> # <font color="#66ff00">`= this.name`</font>
+> ![[Candela_Obscura_wordmark.png]] 
+> ![[background11.jpeg|400]]
 
-![[background11.jpeg|400]]
+The gated community that makes up the bulk of the homes perched on the roofs of Oldfaire. The staff that work in these homes generally live directly underneath each building in South Soffit. It’s not uncommon for homeowners to also have “ground rights,” meaning that they own the lower-class homes in the portion of [[South Soffit]] beneath their manors. Staff are often forced to pay rent to the very people who pay their wages.
+

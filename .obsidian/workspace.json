@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Role Types/Special Abilities/Explorer.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "167b74c863b99aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Role Types/Relationship Questions.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "799d116e21f38d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Test.md",
                 "mode": "source",
                 "source": true
@@ -44,18 +20,55 @@
             }
           },
           {
-            "id": "065be241276ce7c4",
+            "id": "f3b60d1cf406fedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Wiki_Right.md",
+                "file": "3. World/Additional Organizations/The Red Hand/The Red Hand.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "05caa8201ed3bf68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fee941bd8651a106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f57c923f2cd40b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 449.50484466552734
   },
   "right": {
     "id": "215e731ac085fbc9",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Role Types/Special Abilities/Explorer.md",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Role Types/Special Abilities/Explorer.md",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Role Types/Special Abilities/Explorer.md"
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md"
               }
             }
           },
@@ -192,8 +205,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Role Types/Special Abilities/Explorer.md"
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md"
               }
+            }
+          },
+          {
+            "id": "3824fa1e2e245277",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
             }
           }
         ],
@@ -201,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,53 +238,54 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "9d875dc7bbc1ffa8",
+  "active": "05caa8201ed3bf68",
   "lastOpenFiles": [
-    "Templates/Role Types/Special Abilities/Journalist.md",
-    "Templates/Role Types/Special Abilities/Magician.md",
-    "Templates/Role Types/Special Abilities/Explorer.md",
-    "Templates/Role Types/Special Abilities/Soldier.md",
-    "z_images/Candela_Obscura_wordmark.png",
-    "Templates/Role Types/Special Abilities/Doctor.md",
-    "Templates/Role Types/Special Abilities/Professor.md",
-    "Templates/Role Types/Special Abilities/Criminal.md",
-    "Templates/Role Types/Special Abilities/Detective.md",
-    "Templates/Role Types/Special Abilities/Medium.md",
-    "Templates/Role Types/Special Abilities/Occultist.md",
-    "Templates/Role Types/Abilities/Face.md",
-    "Templates/Pregen Player Sheets/PC Callout.md",
-    "Templates/Test.md",
-    "Templates/Wiki_Right.md",
-    "Templates/Role Types/Abilities/Muscle.md",
-    "Templates/Role Types/Abilities/Scholar.md",
-    "Templates/Role Types/Abilities/Weird.md",
-    "Templates/Role Types/Abilities/Slink.md",
-    "Templates/Pregen Player Sheets/Weird_Occultist.md",
+    "00 Data/Chapter Characters/Chapter Characters.md",
+    "0. Story/4.1 Exploration 1.md",
+    "0. Story/7. Epilogue.md",
+    "0. Story/6. Climax The Escape.md",
+    "0. Story/5.3 Escalation 3.md",
+    "0. Story/5.2 Escalation 2.md",
+    "0. Story/5.1 Escalation 1.md",
+    "0. Story/4.3 Exploration 3.md",
+    "0. Story/4.2 Exploration 2.md",
+    "0. Story/1.  Premise.md",
+    "0. Story/0.0 Preamble.md",
+    "0. Story/0.0 Cover Page.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Auggie James.md",
+    "0. Story/0. Story.md",
     "z_images/Designer(6).jpeg",
-    "4. Mechanics/How To Play.md",
-    "4. Mechanics/Special Abilities.md",
-    "icons/detective-svgrepo-com.svg",
-    "icons/criminal-thief-svgrepo-com.svg",
-    "4. Mechanics/Resistance.md",
-    "4. Mechanics/Gear.md",
-    "4. Mechanics/4.3 Consequences.md",
-    "4. Mechanics/4.1 Dice Mechanics.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Charlotte Eaves.md",
+    "z_images/Auggie_James_-_Lizzart.jpg",
+    "z_images/Auggie_James_-_Lizzart.jpg.crdownload",
+    "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Arlo Black.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Vassal and Veil.md",
+    "3. World/Districts Of Newfaire/Newfaire Districts.md",
+    "x_ref/x_ref.md",
     "Pasted image 20240625083917.png",
-    "Templates/Role Types/Relationship Canvas.canvas",
-    "icons/freemasonry-svgrepo-com.svg",
-    "icons/secret-book-svgrepo-com.svg",
-    "icons/mother-and-son-svgrepo-com.svg",
-    "icons/secret-svgrepo-com.svg",
-    "icons/key-svgrepo-com.svg",
-    "Templates/Role Types/Special Abilities",
-    "Templates/Role Types/Great Wards 1.file",
-    "z_images/z_images.7z",
-    "z_images/icons8-mortal-those-icons-lineal-color.zip",
-    "Templates/Role Types/Abilities",
-    "Templates/Role Types",
-    "Templates/New Player Test 1.file",
-    "Tags",
-    "Templates/Pregen Player Sheets",
-    "x_ref/Candela Obscura QSG Pregens - May 30.pdf"
+    "Templates/Wiki_Right.md",
+    "00 Data/Chapter Characters/Silver Screen/Jackie Renoux.md",
+    "00 Data/Chapter Characters/Silver Screen/Chey Tanii.md",
+    "00 Data/Chapter Characters/Silver Screen/Lester Shaw.md",
+    "00 Data/Chapter Characters/Silver Screen/Evelyn White.md",
+    "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
+    "00 Data/Chapter Characters/Tide and  Bone",
+    "00 Data/Chapter Characters/Crimson Mirror",
+    "00 Data/Chapter Characters/Silver Screen",
+    "00 Data/Chapter Characters/Needle and Thread",
+    "z_images/Nathaniel_Trapp.jpg",
+    "z_images/Nathaniel_Trapp.jpg.crdownload",
+    "z_images/Oscar_Grimm.jpg",
+    "z_images/Oscar_Grimm.jpg.crdownload",
+    "z_images/Howard_Margrove.jpg",
+    "z_images/Howard_Margrove.jpg.crdownload",
+    "z_images/arlo.jpg",
+    "z_images/arlo.jpg.crdownload",
+    "z_images/Marion_Collodi.jpg",
+    "00 Data/Chapter Characters/Vassal and Veil",
+    "z_images/candela-obscura-fairelands-map-art.jpg",
+    "z_images/city-sections.png",
+    "00 Data/Role Types/Relationship Canvas.canvas"
   ]
 }

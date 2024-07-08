@@ -69,25 +69,29 @@ sldrMarkBleed: 0
 sldrMarkBrain: 0
 sldrMarkBody: 0
 select: 2
+StyleInfo: 
 ---
 
-
-
-
-
-
-
-Name: `INPUT[text(showcase):name]` 
-Pronoun(s): `INPUT[text(showcase):pronouns]`
-Circle: `INPUT[text(showcase):circle]`
-
-
-Style: `INPUT[text(showcase):style]`<abbr title="What is your character’s overall feel and aesthetic?"> :OcInfo24: </abbr>
-Catalyst: `INPUT[text(showcase):catalyst]`<abbr title="Briefly describe why your character joined Candela Obscura—what happened
-to make them devote their life to this cause?"> :OcInfo24: </abbr>
-Question: `INPUT[text(showcase):question]`<abbr title="Explain what your character hopes to find out over the course of their
+> [!even-columns]
+>
+> > [!personal] Personal
+> >
+> > Name: `INPUT[text(showcase):name]` 
+> >
+> > Pronoun(s): `INPUT[text(showcase):pronouns]`
+> > 
+> > Circle: `INPUT[text(showcase):circle]`
+>
+> > [!detaills] Details
+> >
+> > Style: `INPUT[text(showcase):style]`<abbr title= "What is your character’s overall feel and aesthetic?" > :RiInformationLine: </abbr>
+> > 
+> > Catalyst: `INPUT[text(showcase):catalyst]`<abbr title="Briefly describe why your character joined Candela Obscura—what happened
+to make them devote their life to this cause?"> :RiInformationLine: </abbr>
+> > 
+> > Question: `INPUT[text(showcase):question]`<abbr title="Explain what your character hopes to find out over the course of their
 investigations—what knowledge are they pursuing that motivates them to charge into
-danger? (This may align with your Catalyst or represent a completely different desire.)"> :OcInfo24: </abbr>
+danger? (This may align with your Catalyst or represent a completely different desire.)"> :RiInformationLine: </abbr>
 
 ____________________________________________________________________________
 > [!infobox|right wmtl]+
@@ -194,11 +198,11 @@ ____________________________________________________________________________
 >> | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSurvey]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrFocus]`   | `INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrSense]`   |`INPUT[slider(showcase, addLabels, minValue(0), maxValue(3), stepSize(1)):sldrResIntuition]`  | 
 ____________________________________________________________________________
 
-###### **ROLE:**   Weird ([[Templates/Role Types/Abilities/Weird|Weird]])
+###### **ROLE:**  [[Weird]]
 🔹 `INPUT[text:role1]` 🔹 `INPUT[text:role2]`  🔹 `INPUT[text:role3]`  
 ____________________________________________________________________________
 
-###### **SPECIALITY:** Occultist ([[Occultist]])
+###### **SPECIALITY:** [[Occultist]]
 🔹 `INPUT[text:speciality1]`  🔹 `INPUT[text:speciality2]`  🔹 `INPUT[text:speciality3]`  
 ____________________________________________________________________________
 ###### **MARKS:**

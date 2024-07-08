@@ -7,7 +7,9 @@
   "enabledCssSnippets": [
     "S - Encoded Icons",
     "S - Encoded Fonts",
-    "CustomIcon-AutoGen"
+    "CustomIcon-AutoGen",
+    "Properties into two columns",
+    "Colored Sidebar Items"
   ],
   "theme": "obsidian",
   "nativeMenus": false
