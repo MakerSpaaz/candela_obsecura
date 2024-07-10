@@ -85,11 +85,12 @@
     "//3. World/3. World/Additional Organizations/3. World/Additional Organizations/Unabridged",
     "//3. World/3. World/Additional Organizations/3. World/Additional Organizations/The Red Hand/3. World/Additional Organizations/The Red Hand/Notable Figures",
     "//3. World/3. World/Districts Of Newfaire",
-    "//6. Phenomenon",
-    "//00 Data/00 Data/Chapter Characters",
     "//00 Data/00 Data/Chapter Characters/00 Data/Chapter Characters/Circle of Needle And Thread",
     "//7. Players",
-    "//00 Data"
+    "//00 Data",
+    "//x_ref",
+    "//3. World",
+    "//00 Data/00 Data/Chapter Characters/00 Data/Chapter Characters/Tide and  Bone"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

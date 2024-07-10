@@ -1,7 +1,7 @@
 {
   "accentColor": "#48f000",
   "cssTheme": "ITS Theme",
-  "interfaceFontFamily": "Aesthetic,Van Helsing,Bauhaus 93,Anger Styles,Abaddon ll,Blood Omen,Breathe Fire,Drakon,Fairies,Gargoyles",
+  "interfaceFontFamily": "Anger Styles,Van Helsing,Aesthetic,Bauhaus 93,Abaddon ll,Blood Omen,Breathe Fire,Drakon,Fairies,Gargoyles",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
@@ -9,7 +9,8 @@
     "S - Encoded Fonts",
     "CustomIcon-AutoGen",
     "Properties into two columns",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "S - Checkboxes"
   ],
   "theme": "obsidian",
   "nativeMenus": false

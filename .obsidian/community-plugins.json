@@ -16,5 +16,10 @@
   "table-editor-obsidian",
   "folder-notes",
   "callout-manager",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-git",
+  "lovely-mindmap",
+  "obsidian-admonition",
+  "obsidian-leaflet-plugin",
+  "settings-search"
 ]

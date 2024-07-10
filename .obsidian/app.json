@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "livePreview": false,
   "showUnsupportedFiles": true
 }

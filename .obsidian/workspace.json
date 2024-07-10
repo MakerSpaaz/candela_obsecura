@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ceab08ea9528fde7",
+        "id": "195896b53ff7fa6f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d875dc7bbc1ffa8",
+            "id": "ca2cc3f0aff97f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Test.md",
-                "mode": "source",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "f3b60d1cf406fedf",
+            "id": "2130006590b76056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Additional Organizations/The Red Hand/The Red Hand.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "05caa8201ed3bf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fee941bd8651a106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5f57c923f2cd40b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
-                "mode": "source",
+                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.50484466552734
+    "width": 308.50484466552734
   },
   "right": {
     "id": "215e731ac085fbc9",
@@ -143,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
+                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md",
+                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md"
+                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md"
               }
             }
           },
@@ -205,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Crimson Mirror.md"
+                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md"
               }
             }
           },
@@ -235,57 +199,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05caa8201ed3bf68",
+  "active": "2130006590b76056",
   "lastOpenFiles": [
-    "00 Data/Chapter Characters/Chapter Characters.md",
-    "0. Story/4.1 Exploration 1.md",
-    "0. Story/7. Epilogue.md",
-    "0. Story/6. Climax The Escape.md",
-    "0. Story/5.3 Escalation 3.md",
-    "0. Story/5.2 Escalation 2.md",
-    "0. Story/5.1 Escalation 1.md",
-    "0. Story/4.3 Exploration 3.md",
-    "0. Story/4.2 Exploration 2.md",
-    "0. Story/1.  Premise.md",
-    "0. Story/0.0 Preamble.md",
-    "0. Story/0.0 Cover Page.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Auggie James.md",
-    "0. Story/0. Story.md",
-    "z_images/Designer(6).jpeg",
-    "00 Data/Chapter Characters/Vassal and Veil/Charlotte Eaves.md",
-    "z_images/Auggie_James_-_Lizzart.jpg",
-    "z_images/Auggie_James_-_Lizzart.jpg.crdownload",
-    "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Arlo Black.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Vassal and Veil.md",
-    "3. World/Districts Of Newfaire/Newfaire Districts.md",
-    "x_ref/x_ref.md",
-    "Pasted image 20240625083917.png",
-    "Templates/Wiki_Right.md",
-    "00 Data/Chapter Characters/Silver Screen/Jackie Renoux.md",
-    "00 Data/Chapter Characters/Silver Screen/Chey Tanii.md",
     "00 Data/Chapter Characters/Silver Screen/Lester Shaw.md",
+    "00 Data/Chapter Characters/Silver Screen/Jackie Renoux.md",
     "00 Data/Chapter Characters/Silver Screen/Evelyn White.md",
+    "00 Data/Chapter Characters/Silver Screen/Chey Tanii.md",
+    "00 Data/Chapter Characters/Needle and Thread/Sean Finnerty.md",
+    "00 Data/Chapter Characters/Needle and Thread/Nathaniel Trapp.md",
+    "00 Data/Chapter Characters/Needle and Thread/Marion Collodi.md",
+    "00 Data/Chapter Characters/Needle and Thread/Jinnah Basar.md",
+    "00 Data/Chapter Characters/Needle and Thread/Beatrix Monroe.md",
+    "00 Data/Chapter Characters/Crimson Mirror/Malcolm Trills.md",
+    "00 Data/Chapter Characters/Crimson Mirror/Leo Amicus.md",
+    "00 Data/Chapter Characters/Crimson Mirror/Grimoria.md",
     "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
-    "00 Data/Chapter Characters/Tide and  Bone",
-    "00 Data/Chapter Characters/Crimson Mirror",
-    "00 Data/Chapter Characters/Silver Screen",
-    "00 Data/Chapter Characters/Needle and Thread",
-    "z_images/Nathaniel_Trapp.jpg",
-    "z_images/Nathaniel_Trapp.jpg.crdownload",
-    "z_images/Oscar_Grimm.jpg",
+    "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
+    "00 Data/Chapter Characters/Tide and  Bone/Rajan Savarimuthu.md",
+    "00 Data/Chapter Characters/Tide and  Bone/Oscar Grimm.md",
+    "00 Data/Chapter Characters/Tide and  Bone/Elsie Roberts.md",
+    "00 Data/Chapter Characters/Tide and  Bone/Cosmo Grimm.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Arlo Black.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Auggie James.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Charlotte Eaves.md",
+    "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
+    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
+    "Templates/Notable Figure Template.md",
+    "00 Data/Special Abilities/Criminal.md",
+    "3. World/Map.md",
+    "Templates/New Player .md",
+    "00 Data/Role Types/Relationship Canvas.canvas",
+    "z_images/Designer(6).jpeg",
+    "z_images/phenomenon/Designer.jpeg",
+    "z_images/phenomenon",
+    "z_images/New folder",
+    "z_images/Malcolm_Trills_-_Lizzart.jpg",
+    "z_images/Malcolm_Trills_-_Lizzart.jpg.crdownload",
+    "z_images/Edgar_Lycoris_-_Lizzart.jpg.crdownload",
+    "z_images/Leo_Amicus_-_Lizzart.jpg",
+    "z_images/Leo_Amicus_-_Lizzart.jpg.crdownload",
+    "z_images/Grimoria_-_Lizzart.jpg",
+    "z_images/Grimoria_-_Lizzart.jpg.crdownload",
     "z_images/Oscar_Grimm.jpg.crdownload",
-    "z_images/Howard_Margrove.jpg",
-    "z_images/Howard_Margrove.jpg.crdownload",
-    "z_images/arlo.jpg",
-    "z_images/arlo.jpg.crdownload",
-    "z_images/Marion_Collodi.jpg",
-    "00 Data/Chapter Characters/Vassal and Veil",
-    "z_images/candela-obscura-fairelands-map-art.jpg",
-    "z_images/city-sections.png",
-    "00 Data/Role Types/Relationship Canvas.canvas"
+    "z_images/Cosmo_Grimm.jpg",
+    "z_images/Cosmo_Grimm.jpg.crdownload",
+    "z_images/Rajan_Savarimuthu.jpg",
+    "z_images/Rajan_Savarimuthu.jpg.crdownload",
+    "z_images/Elsie_Roberts.jpg",
+    "z_images/Elsie_Roberts.jpg.crdownload",
+    "z_images/Cordelia_Glask.jpg"
   ]
 }

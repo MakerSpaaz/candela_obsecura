@@ -36,6 +36,8 @@
     "sldrSway": "number",
     "sldrRead": "number",
     "sldrHide": "number",
-    "progress3": "number"
+    "progress3": "number",
+    "circle": "text",
+    "role": "text"
   }
 }
