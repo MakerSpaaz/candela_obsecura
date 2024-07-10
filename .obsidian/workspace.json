@@ -25,10 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "57ba591bd7435bc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -107,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md"
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md"
               }
             }
           },
@@ -169,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md"
+                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md"
               }
             }
           },
@@ -205,6 +213,8 @@
   },
   "active": "2130006590b76056",
   "lastOpenFiles": [
+    "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
+    "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
     "00 Data/Chapter Characters/Silver Screen/Lester Shaw.md",
     "00 Data/Chapter Characters/Silver Screen/Jackie Renoux.md",
     "00 Data/Chapter Characters/Silver Screen/Evelyn White.md",
@@ -217,8 +227,6 @@
     "00 Data/Chapter Characters/Crimson Mirror/Malcolm Trills.md",
     "00 Data/Chapter Characters/Crimson Mirror/Leo Amicus.md",
     "00 Data/Chapter Characters/Crimson Mirror/Grimoria.md",
-    "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
     "00 Data/Chapter Characters/Tide and  Bone/Rajan Savarimuthu.md",
     "00 Data/Chapter Characters/Tide and  Bone/Oscar Grimm.md",
     "00 Data/Chapter Characters/Tide and  Bone/Elsie Roberts.md",
