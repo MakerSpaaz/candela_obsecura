@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
-                "mode": "preview",
+                "file": "Templates/Pregen Player Sheets/Slink_Criminal.md",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "2130006590b76056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "57ba591bd7435bc5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
+                "file": "Templates/Pregen Player Sheets/Slink_Criminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
+                "file": "Templates/Pregen Player Sheets/Slink_Criminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md"
+                "file": "Templates/Pregen Player Sheets/Slink_Criminal.md"
               }
             }
           },
@@ -177,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md"
+                "file": "Templates/Pregen Player Sheets/Slink_Criminal.md"
               }
             }
           },
@@ -211,54 +190,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2130006590b76056",
+  "active": "ca2cc3f0aff97f69",
   "lastOpenFiles": [
-    "00 Data/Chapter Characters/Crimson Mirror/Edgar Lycoris.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Cordelia Glask.md",
-    "00 Data/Chapter Characters/Silver Screen/Lester Shaw.md",
-    "00 Data/Chapter Characters/Silver Screen/Jackie Renoux.md",
-    "00 Data/Chapter Characters/Silver Screen/Evelyn White.md",
-    "00 Data/Chapter Characters/Silver Screen/Chey Tanii.md",
-    "00 Data/Chapter Characters/Needle and Thread/Sean Finnerty.md",
-    "00 Data/Chapter Characters/Needle and Thread/Nathaniel Trapp.md",
-    "00 Data/Chapter Characters/Needle and Thread/Marion Collodi.md",
-    "00 Data/Chapter Characters/Needle and Thread/Jinnah Basar.md",
-    "00 Data/Chapter Characters/Needle and Thread/Beatrix Monroe.md",
-    "00 Data/Chapter Characters/Crimson Mirror/Malcolm Trills.md",
-    "00 Data/Chapter Characters/Crimson Mirror/Leo Amicus.md",
-    "00 Data/Chapter Characters/Crimson Mirror/Grimoria.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Rajan Savarimuthu.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Oscar Grimm.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Elsie Roberts.md",
-    "00 Data/Chapter Characters/Tide and  Bone/Cosmo Grimm.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Arlo Black.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Auggie James.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Charlotte Eaves.md",
-    "00 Data/Chapter Characters/Vassal and Veil/Dr Howard Margrove.md",
-    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
+    "Templates/Pregen Player Sheets/Scholar_Professor.md",
+    "Templates/Pregen Player Sheets/Slink_Criminal.md",
+    "Templates/Pregen Player Sheets/Muscle_Explorer.md",
+    "Templates/Pregen Player Sheets/Face_Magician.md",
     "Templates/Notable Figure Template.md",
-    "00 Data/Special Abilities/Criminal.md",
-    "3. World/Map.md",
     "Templates/New Player .md",
-    "00 Data/Role Types/Relationship Canvas.canvas",
+    "Templates/Pregen Player Sheets/Pregen Player Sheets.md",
+    "00 Data/Special Abilities/Criminal.md",
+    "00 Data/Circle Characters/Needle and Thread/Sean Finnerty.md",
+    "00 Data/Circle Characters/Needle and Thread/Nathaniel Trapp.md",
+    "00 Data/Circle Characters/Needle and Thread/Marion Collodi.md",
+    "00 Data/Circle Characters/Needle and Thread/Jinnah Basar.md",
+    "00 Data/Circle Characters/Needle and Thread/Beatrix Monroe.md",
+    "00 Data/Circle Characters/Tide and  Bone/Rajan Savarimuthu.md",
+    "00 Data/Circle Characters/Tide and  Bone/Oscar Grimm.md",
+    "00 Data/Circle Characters/Tide and  Bone/Elsie Roberts.md",
+    "00 Data/Circle Characters/Tide and  Bone/Cosmo Grimm.md",
+    "00 Data/Circle Characters/Tide and  Bone/Cordelia Glask.md",
+    "00 Data/Circle Characters/Vassal and Veil/Dr Howard Margrove.md",
+    "00 Data/Circle Characters/Vassal and Veil/Charlotte Eaves.md",
+    "00 Data/Circle Characters/Vassal and Veil/Auggie James.md",
+    "00 Data/Circle Characters/Vassal and Veil/Arlo Black.md",
+    "00 Data/Circle Characters/Crimson Mirror/Edgar Lycoris.md",
+    "z_images/Candela_Obscura_wordmark.png",
+    "00 Data/Circle Characters/Silver Screen/Chey Tanii.md",
+    "00 Data/Circle Characters/Crimson Mirror/Malcolm Trills.md",
+    "00 Data/Circle Characters/Crimson Mirror/Leo Amicus.md",
     "z_images/Designer(6).jpeg",
-    "z_images/phenomenon/Designer.jpeg",
-    "z_images/phenomenon",
-    "z_images/New folder",
-    "z_images/Malcolm_Trills_-_Lizzart.jpg",
-    "z_images/Malcolm_Trills_-_Lizzart.jpg.crdownload",
-    "z_images/Edgar_Lycoris_-_Lizzart.jpg.crdownload",
-    "z_images/Leo_Amicus_-_Lizzart.jpg",
-    "z_images/Leo_Amicus_-_Lizzart.jpg.crdownload",
-    "z_images/Grimoria_-_Lizzart.jpg",
-    "z_images/Grimoria_-_Lizzart.jpg.crdownload",
-    "z_images/Oscar_Grimm.jpg.crdownload",
-    "z_images/Cosmo_Grimm.jpg",
-    "z_images/Cosmo_Grimm.jpg.crdownload",
-    "z_images/Rajan_Savarimuthu.jpg",
-    "z_images/Rajan_Savarimuthu.jpg.crdownload",
-    "z_images/Elsie_Roberts.jpg",
-    "z_images/Elsie_Roberts.jpg.crdownload",
-    "z_images/Cordelia_Glask.jpg"
+    "3. World/Districts Of Newfaire/silverslip/Points of Interest",
+    "3. World/Districts Of Newfaire/silverslip",
+    "3. World/Districts Of Newfaire/The Varnish/Points of Interest",
+    "3. World/Districts Of Newfaire/The Varnish/People of Interest",
+    "3. World/Districts Of Newfaire/The Varnish",
+    "3. World/Districts Of Newfaire/The Steel/Points of Interest",
+    "3. World/Districts Of Newfaire/The Steel/People of Interest",
+    "3. World/Districts Of Newfaire/The Steel",
+    "3. World/Districts Of Newfaire/The Steam/Points of Interest",
+    "3. World/Districts Of Newfaire/The Steam/People of Interest",
+    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
+    "icons/abstract-105.svg",
+    "icons/abstract-104.svg",
+    "icons/abstract-103.svg",
+    "icons/abstract-090.svg",
+    "icons/abstract-069.svg",
+    "icons/abstract-068.svg",
+    "icons/abstract-059.svg",
+    "00 Data/Role Types/Relationship Canvas.canvas"
   ]
 }
