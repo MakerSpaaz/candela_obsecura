@@ -89,10 +89,12 @@
     "//00 Data",
     "//3. World/3. World/Additional Organizations",
     "//3. World/3. World/Additional Organizations/3. World/Additional Organizations/Exoteric Order of New Sciences",
-    "//00 Data/00 Data/Abilities",
-    "//Templates/Templates/Pregen Player Sheets",
+    "//5. DM Notes",
+    "//6. Phenomenon",
     "//00 Data/00 Data/Circle Characters",
-    "//5. DM Notes"
+    "//Templates/Templates/Chapter 1.file",
+    "//00 Data/00 Data/Circle Characters/00 Data/Circle Characters/Tide and  Bone",
+    "//00 Data/00 Data/Circle Characters/00 Data/Circle Characters/Vassal and Veil"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

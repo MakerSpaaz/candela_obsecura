@@ -38,6 +38,7 @@
     "sldrHide": "number",
     "progress3": "number",
     "circle": "text",
-    "role": "text"
+    "role": "text",
+    "Episode": "text"
   }
 }
