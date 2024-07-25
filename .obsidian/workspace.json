@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "79a65eec5373e980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md"
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
               }
             }
           },
@@ -156,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md"
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
               }
             }
           },
@@ -167,9 +179,24 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "320d57891e35ba80",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "027c4c98afe2367c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,56 +215,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "544a526787628700",
   "lastOpenFiles": [
+    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
+    "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+    "z_images/Designer(6).jpeg",
+    "z_images/Cosmo_Grimm.jpg",
+    "z_images/Rajan_Savarimuthu.jpg",
+    "00 Data/Chapter Details/The Wyrm/The Wyrm.md",
+    "00 Data/Chapter Details/The Wyrm",
+    "00 Data/Chapter Details/Needle and Thread/The Needle and Thread.md",
+    "00 Data/Chapter Details/Needle and Thread/Jinnah Basar.md",
+    "00 Data/Chapter Details/Silver Flame/Silver Flame.md",
+    "00 Data/Chapter Details/Silver Flame",
+    "00 Data/Chapter Details/Needle and Thread/Beatrix Monroe.md",
+    "00 Data/Chapter Details/Needle and Thread/Nathaniel Trapp.md",
+    "3. World/Additional Organizations/The Red Hand/Red Hand.md",
+    "00 Data/Chapter Details/Chapter Details.md",
+    "00 Data/Chapter Details/Lightkeepers/Zora Manning.md",
+    "00 Data/Chapter Details/Lightkeepers/Shyla Bhaduri.md",
+    "00 Data/Chapter Details/Lightkeepers/Nokari.md",
+    "00 Data/Chapter Details/Lightkeepers/Greta DeClaire.md",
+    "00 Data/Chapter Details/Lightkeepers/Ezra Ashford.md",
+    "00 Data/Chapter Details/Lightkeepers/Draven Kingsley.md",
+    "00 Data/Chapter Details/Lightkeepers/Dolores Finch.md",
+    "00 Data/Chapter Details/Lightkeepers/Alexandra Elise ONeill.md",
+    "00 Data/Chapter Details/Lightkeepers/Untitled 1.md",
+    "00 Data/Chapter Details/Lightkeepers/Untitled.md",
+    "00 Data/Chapter Details/Lightkeepers/Lightkeepers.md",
+    "00 Data/Chapter Details/Needle and Thread/Needle and Thread.md",
+    "README.md",
+    "Templates/Chapter 1.file/Chapter.md",
+    "Templates/Chapter 1.file/Untitled.md",
+    "00 Data/Chapter Details/Lightkeepers",
+    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
+    "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg",
+    "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg.crdownload",
+    "z_images/vassal_veil.jpg",
+    "z_images/silverscreen.jpg",
+    "z_images/silverscreen.jpg.crdownload",
     "z_images/Howard_Margrove.jpg",
-    "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
     "z_images/Charlotte_Eaves_-_Lizzart.jpg",
     "z_images/Auggie_James_-_Lizzart.jpg",
-    "z_images/Arlo_Black_-_Lizzart.jpg",
-    "00 Data/Chapter Details/Vassal and Veil/The Vassal and The Veil.md",
-    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
-    "z_images/Candela_Obscura_wordmark.png",
-    "00 Data/Chapter Details/Needle and Thread/The Needle and Thread.md",
-    "z_images/Nathaniel_Trapp.jpg",
-    "z_images/tide and bone.jpeg",
     "z_images/vassal_veil.xcf",
-    "z_images/vassal_veil.jpg",
     "z_images/vassal_veil",
     "z_images/Unconfirmed 169259.crdownload",
-    "z_images/Oscar_Grimm.jpg",
-    "z_images/Cosmo_Grimm.jpg",
-    "00 Data/Chapter Details/Vassal and Veil/Mentioned People.md",
-    "Templates/Chapter.md",
-    "Templates/Chapter 1.file/Untitled.md",
-    "Templates/Chapter 1.file/Chapter 1.file.md",
-    "Templates/New Player .md",
-    "Templates/Untitled.md",
-    "6. Phenomenon/Spectral Donald.md",
-    "Templates/Chapter 1.file/Chapter.md",
     "Templates/Chapter 1.file",
-    "00 Data/Chapter Details/Tide and  Bone/Tide and  Bone.md",
-    "00 Data/Chapter Details/Tide and  Bone/Cordelia Glask.md",
-    "00 Data/Chapter Details/Crimson Mirror/Crimson Mirror.md",
-    "6. Phenomenon/The Radiance.md",
-    "6. Phenomenon/Sylphs Fire.md",
-    "6. Phenomenon/Sklireel.md",
     "z_images/Sklireel.jpeg.~tmp",
-    "00 Data/Chapter Details/Crimson Mirror/Edgar Lycoris.md",
-    "Templates/Places of Interest.md",
-    "Templates/Notable Figure Template.md",
-    "00 Data/Chapter Details/Crimson Mirror/Malcolm Trills.md",
-    "00 Data/Chapter Details/Crimson Mirror/Leo Amicus.md",
-    "00 Data/Chapter Details/Crimson Mirror/Grimoria.md",
-    "00 Data/Chapter Details/Needle and Thread/Sean Finnerty.md",
-    "3. World/Districts Of Newfaire/silverslip/Points of Interest",
-    "3. World/Districts Of Newfaire/silverslip",
-    "3. World/Districts Of Newfaire/The Varnish/Points of Interest",
-    "3. World/Districts Of Newfaire/The Varnish/People of Interest",
-    "3. World/Districts Of Newfaire/The Varnish",
     "00 Data/Role Types/Relationship Canvas.canvas"
   ]
 }

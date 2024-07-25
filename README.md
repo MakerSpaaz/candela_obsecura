@@ -11,4 +11,8 @@ Watch Critical Role play Candela here
 
 [Candela Obscura | Official Trailer (youtube.com)](https://www.youtube.com/watch?v=XvlAgbSUiWw&list=PL1tiwbzkOjQwrPBNkPgQEQtNVDvJwrqTm)
 
+Some images presented here were created by myself via AI, others were posted in the Wiki page here.
+
+[Candela Obscura | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/Candela_Obscura)
+
 
