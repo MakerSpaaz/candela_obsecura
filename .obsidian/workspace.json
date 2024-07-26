@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+                "file": "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+                "file": "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+                "file": "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
+                "file": "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
+                "file": "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md"
               }
             }
           },
@@ -223,8 +223,14 @@
   },
   "active": "544a526787628700",
   "lastOpenFiles": [
-    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
     "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+    "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
+    "00 Data/Chapter Details/The Wyrm/Maryanne DeWitt.md",
+    "00 Data/Chapter Details/The Wyrm/Hilda Greenwald.md",
+    "z_images/Candela_Obscura_wordmark.png",
+    "00 Data/Chapter Details/The Wyrm/Alonzo Whitlock.md",
+    "00 Data/Chapter Details/The Wyrm/Alessandra Gregory.md",
+    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
     "z_images/Designer(6).jpeg",
     "z_images/Cosmo_Grimm.jpg",
     "z_images/Rajan_Savarimuthu.jpg",
@@ -249,10 +255,6 @@
     "00 Data/Chapter Details/Lightkeepers/Untitled 1.md",
     "00 Data/Chapter Details/Lightkeepers/Untitled.md",
     "00 Data/Chapter Details/Lightkeepers/Lightkeepers.md",
-    "00 Data/Chapter Details/Needle and Thread/Needle and Thread.md",
-    "README.md",
-    "Templates/Chapter 1.file/Chapter.md",
-    "Templates/Chapter 1.file/Untitled.md",
     "00 Data/Chapter Details/Lightkeepers",
     "z_images/Edgar_Lycoris_-_Lizzart.jpg",
     "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg",
@@ -262,7 +264,6 @@
     "z_images/silverscreen.jpg.crdownload",
     "z_images/Howard_Margrove.jpg",
     "z_images/Charlotte_Eaves_-_Lizzart.jpg",
-    "z_images/Auggie_James_-_Lizzart.jpg",
     "z_images/vassal_veil.xcf",
     "z_images/vassal_veil",
     "z_images/Unconfirmed 169259.crdownload",
