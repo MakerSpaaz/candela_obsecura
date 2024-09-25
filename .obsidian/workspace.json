@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
-                "mode": "source",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md"
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md"
+                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
               }
             }
           },
@@ -224,29 +224,35 @@
   },
   "active": "79a65eec5373e980",
   "lastOpenFiles": [
+    "z_images/nester ronquillo.png",
+    "nester ronquillo.png",
+    "z_images/Designer(6).jpeg",
+    "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
+    "z_images/maryanne dewitt.jpeg",
+    "maryanne dewitt.jpeg",
+    "z_images/Alessandra Gregory.png",
+    "z_images/Alonzo Whitlock.png",
+    "z_images/Decklan Murphy.jpeg",
+    "z_images/Hilda Greenwald.png",
+    "00 Data/Chapter Details/Silver Flame/Silver Flame.md",
     "00 Data/Chapter Details/Needle and Thread/The Needle and Thread.md",
     "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
+    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
     "00 Data/Chapter Details/Vassal and Veil/The Vassal and The Veil.md",
     "z_images/Howard_Margrove.jpg",
-    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
     "00 Data/Chapter Details/Tide and  Bone/Tide and  Bone.md",
     "00 Data/Chapter Details/Crimson Mirror/Crimson Mirror.md",
     "00 Data/Chapter Details/Chapter Details.md",
     "3. World/Map.md",
     "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
-    "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
     "00 Data/Chapter Details/The Wyrm/Maryanne DeWitt.md",
     "00 Data/Chapter Details/The Wyrm/Hilda Greenwald.md",
     "z_images/Candela_Obscura_wordmark.png",
     "00 Data/Chapter Details/The Wyrm/Alonzo Whitlock.md",
     "00 Data/Chapter Details/The Wyrm/Alessandra Gregory.md",
-    "z_images/Designer(6).jpeg",
-    "z_images/Cosmo_Grimm.jpg",
-    "z_images/Rajan_Savarimuthu.jpg",
     "00 Data/Chapter Details/The Wyrm/The Wyrm.md",
     "00 Data/Chapter Details/The Wyrm",
     "00 Data/Chapter Details/Needle and Thread/Jinnah Basar.md",
-    "00 Data/Chapter Details/Silver Flame/Silver Flame.md",
     "00 Data/Chapter Details/Silver Flame",
     "00 Data/Chapter Details/Needle and Thread/Beatrix Monroe.md",
     "00 Data/Chapter Details/Needle and Thread/Nathaniel Trapp.md",
@@ -256,15 +262,9 @@
     "00 Data/Chapter Details/Lightkeepers/Nokari.md",
     "00 Data/Chapter Details/Lightkeepers/Greta DeClaire.md",
     "00 Data/Chapter Details/Lightkeepers/Ezra Ashford.md",
-    "00 Data/Chapter Details/Lightkeepers/Draven Kingsley.md",
     "00 Data/Chapter Details/Lightkeepers",
-    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
-    "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg",
     "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg.crdownload",
-    "z_images/vassal_veil.jpg",
-    "z_images/silverscreen.jpg",
     "z_images/silverscreen.jpg.crdownload",
-    "z_images/Charlotte_Eaves_-_Lizzart.jpg",
     "z_images/vassal_veil.xcf",
     "z_images/vassal_veil",
     "z_images/Unconfirmed 169259.crdownload",
