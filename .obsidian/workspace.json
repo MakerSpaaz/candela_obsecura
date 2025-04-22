@@ -11,28 +11,15 @@
             "id": "544a526787628700",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "3. World/Map.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "79a65eec5373e980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
-                "mode": "preview",
-                "source": true
-              }
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,15 +66,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "646e092613f48697",
+            "id": "0db51ebf4318d30b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -107,15 +102,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
-                "collapseAll": false,
+                "file": "00 Data/Chapter Details/Lightkeepers/Alexandra Elise ONeill.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Alexandra Elise ONeill"
             }
           },
           {
@@ -124,10 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,9 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -160,7 +160,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -168,9 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -178,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
-              "state": {}
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
             }
           },
           {
@@ -194,14 +200,18 @@
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +232,33 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "79a65eec5373e980",
+  "active": "2fb3c3fa77da4226",
   "lastOpenFiles": [
+    "00 Data/Chapter Details/The Wyrm/Hilda Greenwald.md",
+    "00 Data/Chapter Details/The Wyrm/Alessandra Gregory.md",
+    "00 Data/Chapter Details/Crimson Mirror/Malcolm Trills.md",
+    "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
+    "00 Data/Role Types/Relationship Questions.md",
+    "00 Data/Chapter Details/Tide and  Bone/Rajan Savarimuthu.md",
+    "00 Data/Chapter Details/Tide and  Bone/Cordelia Glask.md",
+    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
+    "00 Data/Chapter Details/Lightkeepers/Alexandra Elise ONeill.md",
+    "00 Data/Abilities/Muscle.md",
+    "3. World/Map.md",
+    "00 Data/Abilities/Face.md",
+    "README.md",
+    "Templates/Circle Sheet.md",
+    "Templates/New Player .md",
+    "00 Data/Chapter Details/Crimson Mirror/Edgar Lycoris.md",
+    "6. Phenomenon/Sklireel.md",
+    "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
+    "00 Data/Chapter Details/The Wyrm/Maryanne DeWitt.md",
+    "00 Data/Chapter Details/The Wyrm/Alonzo Whitlock.md",
+    "z_images/Edgar_Lycoris_-_Lizzart.jpg",
+    "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
     "z_images/nester ronquillo.png",
     "nester ronquillo.png",
     "z_images/Designer(6).jpeg",
-    "00 Data/Chapter Details/The Wyrm/The Circle of The Wyrm.md",
     "z_images/maryanne dewitt.jpeg",
     "maryanne dewitt.jpeg",
     "z_images/Alessandra Gregory.png",
@@ -236,32 +267,11 @@
     "z_images/Hilda Greenwald.png",
     "00 Data/Chapter Details/Silver Flame/Silver Flame.md",
     "00 Data/Chapter Details/Needle and Thread/The Needle and Thread.md",
-    "00 Data/Chapter Details/Crimson Mirror/The Crimson Mirror.md",
-    "00 Data/Chapter Details/Tide and  Bone/Tide and Bone.md",
     "00 Data/Chapter Details/Vassal and Veil/The Vassal and The Veil.md",
-    "z_images/Howard_Margrove.jpg",
     "00 Data/Chapter Details/Tide and  Bone/Tide and  Bone.md",
     "00 Data/Chapter Details/Crimson Mirror/Crimson Mirror.md",
-    "00 Data/Chapter Details/Chapter Details.md",
-    "3. World/Map.md",
-    "00 Data/Chapter Details/The Wyrm/Nestor Ronquillo.md",
-    "00 Data/Chapter Details/The Wyrm/Maryanne DeWitt.md",
-    "00 Data/Chapter Details/The Wyrm/Hilda Greenwald.md",
-    "z_images/Candela_Obscura_wordmark.png",
-    "00 Data/Chapter Details/The Wyrm/Alonzo Whitlock.md",
-    "00 Data/Chapter Details/The Wyrm/Alessandra Gregory.md",
-    "00 Data/Chapter Details/The Wyrm/The Wyrm.md",
     "00 Data/Chapter Details/The Wyrm",
-    "00 Data/Chapter Details/Needle and Thread/Jinnah Basar.md",
     "00 Data/Chapter Details/Silver Flame",
-    "00 Data/Chapter Details/Needle and Thread/Beatrix Monroe.md",
-    "00 Data/Chapter Details/Needle and Thread/Nathaniel Trapp.md",
-    "3. World/Additional Organizations/The Red Hand/Red Hand.md",
-    "00 Data/Chapter Details/Lightkeepers/Zora Manning.md",
-    "00 Data/Chapter Details/Lightkeepers/Shyla Bhaduri.md",
-    "00 Data/Chapter Details/Lightkeepers/Nokari.md",
-    "00 Data/Chapter Details/Lightkeepers/Greta DeClaire.md",
-    "00 Data/Chapter Details/Lightkeepers/Ezra Ashford.md",
     "00 Data/Chapter Details/Lightkeepers",
     "z_images/Alexandra_O%27Neil_by_Marina_Marinkov.jpg.crdownload",
     "z_images/silverscreen.jpg.crdownload",
