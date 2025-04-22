@@ -1,0 +1,1 @@
+A tacky, occult-themed shop in Briar Green. It is another front for the Red Hand.

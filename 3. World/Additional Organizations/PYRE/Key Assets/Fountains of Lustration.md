@@ -1,0 +1,1 @@
+Hidden ritual sites, known only by Pyre, that help them cleanse the bleed from their bodies through horrifying magickal means.

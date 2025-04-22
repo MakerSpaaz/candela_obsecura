@@ -1,0 +1,1 @@
+A smuggling ship the Red Hand uses to transport stolen goods. Depending on the port, they may further hide their product or simply pay off the necessary officials.

@@ -1,0 +1,13 @@
+- Aaron Weimer - Field Officer in the Office of Unexplained Phenomenon (OUP)
+- [Alexandra Elise O'Neill](https://criticalrole.fandom.com/wiki/Alexandra_Elise_O%27Neill "Alexandra Elise O'Neill")
+- Clara - runs a shelter and soup kitchen Auggie has stayed at
+- Donald Kinzel - a friend and customer of Auggie's
+- Prof. Errol Dennings - a younger professor at the Briar Bank College
+- Gertrude - a not-all-there elderly woman visited regularly by Charlotte
+- Layla Orens - an acquaintance of Auggie's at the soup kitchen
+- Reggie - owner of the Gilded Rainbow bookshop
+- Sherman - takes care of Gertrude
+- Simon - a police officer and patron of the Sight Unseen
+- Stinson, Charlotte's right hand man running the bar
+- Mr. Tellbrook - a butler or servant in the Black home
+- Ms. Thomas - in service in the Black home

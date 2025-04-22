@@ -1,0 +1,1 @@
+Pyre holds the secret to forging swords that can harm the otherworldly beings that pass through thinnings.

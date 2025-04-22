@@ -1,0 +1,1 @@
+The asylum located in the Sidle. It’s often used to hide away civilians and agents who were subjected to too much bleed. The OUP frequently uses the slang “they’re going gray” in reference to this facility and the effects of bleed.
